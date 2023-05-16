@@ -1,0 +1,18 @@
+@startmindmap
+* coin(sum , item)
+
+** no coins
+***_ 0 ways
+
+** sum=0
+***_ 1 way (pick nothing)
+
+
+** select
+***_ coin(sum - item, item)
+** skip
+***_ coin(sum, next item)
+
+
+
+@endmindmap

@@ -1,0 +1,12 @@
+@startuml
+
+actor client as 0
+participant gateway as 1
+participant API as 2
+
+group#lightgreen happy flow
+0->1
+1->2
+
+end
+@enduml

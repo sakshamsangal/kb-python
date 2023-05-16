@@ -1,0 +1,20 @@
+<pub>
+  <section><table>
+         asasa
+      </table><heading>MSXML3: A Comprehensive Guide </heading>
+      Computer
+      <paragraph>36.95</paragraph>
+      <footnote id="" sak="">The Microsoft MSXML3 parser is covered in 
+      detail, with attention to XML DOM interfaces, XSLT processing, 
+      SAX and more.</footnote>
+   </section>
+  <chapter>
+    <heading>Visual Studio 7: A Comprehensive Guide</heading>
+    <paragraph>Computer</paragraph>
+    <paragraph>49.95</paragraph>
+    <footnote id="" sak="">Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are 
+      integrated into a comprehensive development 
+      environment.</footnote>
+  </chapter>
+</pub>

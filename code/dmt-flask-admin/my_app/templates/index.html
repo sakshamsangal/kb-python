@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>DM Sheet</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../static/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+
+<div class="container">
+    <br>
+    <div class="row">
+
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col-sm-3 ">Location</div>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control form-control-sm" id="id_loc"
+                           value="C:/Users/saksangal/Pictures/saksham">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-3 ">Content type</div>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control form-control-sm" id="id_ct" value="deskbook">
+                </div>
+            </div>
+
+            <h3>
+                <a href="http://localhost:5000/admin" target="_blank">Go to admin</a>
+            </h3>
+            <button type="button" onclick="formRequest('tag_master', '/tag-master')">tag_master</button>
+            <button type="button" onclick="formRequest('att_master', '/att-master')">att_master</button>
+            <button type="button" onclick="formRequest('pc_master', '/pc-master')">pc_master</button>
+            <button type="button" onclick="formRequest('map_xpath', '/map-xpath')">map_xpath</button>
+            <button type="button" onclick="formRequest('map_tag', '/map-tag')">map_tag</button>
+            <button type="button" onclick="formRequest('feat', '/feat')">feat</button>
+            <button type="button" onclick="formRequest('comp_style', '/comp-style')">comp_style</button>
+
+        </div>
+
+        <div class="col-md-6">
+            <div id="output">output:</div>
+            <div id="id_span">API hit</div>
+            <button class="btn btn-primary" type="button" id="my_submit">Submit</button>
+            <br>
+            <textarea rows="7" cols="25" placeholder="JSON" id="id_json"></textarea>
+        </div>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    let output = document.querySelector('#output');
+
+    function uploadUrl(sendObj, end_point) {
+        fetch('http://127.0.0.1:5000' + end_point, {
+            body: JSON.stringify(sendObj),
+            headers: {
+                "Content-Type": "application/json"
+            },
+            method: "post"
+        })
+            .then(response => response.json())
+            .then(data => {
+                output.innerHTML = JSON.stringify(data)
+            })
+            .catch(err => {
+                output.innerHTML = JSON.stringify(err)
+            });
+    }
+
+    let xmlBtn = document.querySelector('#my_submit');
+
+    xmlBtn.addEventListener('click', function () {
+        let text_area = document.querySelector('#id_json').value;
+        let sendObj = {
+            "ct": document.querySelector('#id_ct').value,
+            "loc": document.querySelector('#id_loc').value,
+            ...JSON.parse(text_area)
+        }
+        uploadUrl(sendObj, xmlBtn.innerHTML)
+    })
+
+    big_obj = {
+        'tag_master': `{
+            "all-dir":"yes",
+            "prod":"65,990"
+        }`,
+        'att_master': `{
+            "all-dir":"yes",
+            "prod":"65,990"
+        }`,
+        'pc_master': `{
+            "all-dir":"yes",
+            "prod":"65,990"
+        }`,
+        'map_xpath': `  {
+          "file_name": "deskbook",
+          "sn": "65"
+        }`,
+        'map_tag': `{}`,
+        'feat': `{}`,
+        'comp_style': `{}`
+    }
+    function formRequest(str, endpoint) {
+        document.querySelector('#id_span').innerHTML = str
+        output.innerHTML = 'output:'
+        document.querySelector('#id_json').value = big_obj[str];
+        document.querySelector('#my_submit').innerHTML = endpoint;
+    }
+</script>
+</body>
+
+</html>

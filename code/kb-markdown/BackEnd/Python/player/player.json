@@ -1,0 +1,3964 @@
+{
+    "A Ashish Reddy": {
+        "Player_Name": "A Ashish Reddy",
+        "DOB": "24-Feb-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "A Chandila": {
+        "Player_Name": "A Chandila",
+        "DOB": "5-Dec-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "A Chopra": {
+        "Player_Name": "A Chopra",
+        "DOB": "19-Sep-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "A Choudhary": {
+        "Player_Name": "A Choudhary",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": ""
+    },
+    "A Dananjaya": {
+        "Player_Name": "A Dananjaya",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": ""
+    },
+    "A Flintoff": {
+        "Player_Name": "A Flintoff",
+        "DOB": "6-Dec-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "England"
+    },
+    "A Hales": {
+        "Player_Name": "A Hales",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "A Joseph": {
+        "Player_Name": "A Joseph",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "A Kumble": {
+        "Player_Name": "A Kumble",
+        "DOB": "17-Oct-70",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "A Mishra": {
+        "Player_Name": "A Mishra",
+        "DOB": "24-Nov-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "A Mithun": {
+        "Player_Name": "A Mithun",
+        "DOB": "25-Oct-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "A Mukund": {
+        "Player_Name": "A Mukund",
+        "DOB": "6-Jan-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "A Nehra": {
+        "Player_Name": "A Nehra",
+        "DOB": "29-Apr-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm medium-fast",
+        "Country": "India"
+    },
+    "A Nel": {
+        "Player_Name": "A Nel",
+        "DOB": "15-Jul-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "A Roy": {
+        "Player_Name": "A Roy",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": ""
+    },
+    "A Singh": {
+        "Player_Name": "A Singh",
+        "DOB": "21-Jun-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "A Symonds": {
+        "Player_Name": "A Symonds",
+        "DOB": "9-Jun-75",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Australia"
+    },
+    "A Turner": {
+        "Player_Name": "A Turner",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "A Uniyal": {
+        "Player_Name": "A Uniyal",
+        "DOB": "21-Nov-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "India"
+    },
+    "A Zampa": {
+        "Player_Name": "A Zampa",
+        "DOB": "31-Mar-92",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "Australia"
+    },
+    "AA Bilakhia": {
+        "Player_Name": "AA Bilakhia",
+        "DOB": "31-May-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "AA Chavan": {
+        "Player_Name": "AA Chavan",
+        "DOB": "28-Oct-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "AA Jhunjhunwala": {
+        "Player_Name": "AA Jhunjhunwala",
+        "DOB": "1-Dec-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "AA Kazi": {
+        "Player_Name": "AA Kazi",
+        "DOB": "29-Sep-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "AA Noffke": {
+        "Player_Name": "AA Noffke",
+        "DOB": "30-Apr-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "AB Agarkar": {
+        "Player_Name": "AB Agarkar",
+        "DOB": "4-Dec-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "India"
+    },
+    "AB Barath": {
+        "Player_Name": "AB Barath",
+        "DOB": "14-Apr-90",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "AB de Villiers": {
+        "Player_Name": "AB de Villiers",
+        "DOB": "17-Feb-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "South Africa"
+    },
+    "AB Dinda": {
+        "Player_Name": "AB Dinda",
+        "DOB": "25-Mar-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "AB McDonald": {
+        "Player_Name": "AB McDonald",
+        "DOB": "5-Jun-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "Abdur Razzak": {
+        "Player_Name": "Abdur Razzak",
+        "DOB": "15-Jun-82",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Bangladesh"
+    },
+    "AC Blizzard": {
+        "Player_Name": "AC Blizzard",
+        "DOB": "27-Jun-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "Australia"
+    },
+    "AC Gilchrist": {
+        "Player_Name": "AC Gilchrist",
+        "DOB": "14-Nov-71",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Australia"
+    },
+    "AC Thomas": {
+        "Player_Name": "AC Thomas",
+        "DOB": "9-Feb-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "England"
+    },
+    "AC Voges": {
+        "Player_Name": "AC Voges",
+        "DOB": "4-Oct-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Australia"
+    },
+    "AD Mascarenhas": {
+        "Player_Name": "AD Mascarenhas",
+        "DOB": "30-Oct-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "England"
+    },
+    "AD Mathews": {
+        "Player_Name": "AD Mathews",
+        "DOB": "2-Jun-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Sri Lanka"
+    },
+    "AD Nath": {
+        "Player_Name": "AD Nath",
+        "DOB": "10-May-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "AD Russell": {
+        "Player_Name": "AD Russell",
+        "DOB": "29-Apr-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "West Indies"
+    },
+    "AF Milne": {
+        "Player_Name": "AF Milne",
+        "DOB": "13-Apr-92",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "New Zealand"
+    },
+    "AG Murtaza": {
+        "Player_Name": "AG Murtaza",
+        "DOB": "1-Jan-90",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "AG Paunikar": {
+        "Player_Name": "AG Paunikar",
+        "DOB": "18-Apr-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "AJ Finch": {
+        "Player_Name": "AJ Finch",
+        "DOB": "17-Nov-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Australia"
+    },
+    "AJ Tye": {
+        "Player_Name": "AJ Tye",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "AL Menaria": {
+        "Player_Name": "AL Menaria",
+        "DOB": "29-Oct-90",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "AM Nayar": {
+        "Player_Name": "AM Nayar",
+        "DOB": "8-Oct-83",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "AM Rahane": {
+        "Player_Name": "AM Rahane",
+        "DOB": "6-Jun-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "AM Salvi": {
+        "Player_Name": "AM Salvi",
+        "DOB": "20-Oct-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "AN Ahmed": {
+        "Player_Name": "AN Ahmed",
+        "DOB": "5-Nov-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "AN Ghosh": {
+        "Player_Name": "AN Ghosh",
+        "DOB": "19-Oct-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "Anand Rajan": {
+        "Player_Name": "Anand Rajan",
+        "DOB": "17-Apr-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "Anirudh Singh": {
+        "Player_Name": "Anirudh Singh",
+        "DOB": "2-Aug-80",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "Ankit Sharma": {
+        "Player_Name": "Ankit Sharma",
+        "DOB": "20-Apr-91",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "Ankit Soni": {
+        "Player_Name": "Ankit Soni",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": ""
+    },
+    "Anureet Singh": {
+        "Player_Name": "Anureet Singh",
+        "DOB": "2-Mar-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "AP Dole": {
+        "Player_Name": "AP Dole",
+        "DOB": "9-Oct-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "AP Majumdar": {
+        "Player_Name": "AP Majumdar",
+        "DOB": "30-Apr-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "AP Tare": {
+        "Player_Name": "AP Tare",
+        "DOB": "7-Nov-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "AR Bawne": {
+        "Player_Name": "AR Bawne",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "AR Patel": {
+        "Player_Name": "AR Patel",
+        "DOB": "20-Jan-94",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "AS Rajpoot": {
+        "Player_Name": "AS Rajpoot",
+        "DOB": "4-Dec-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "AS Raut": {
+        "Player_Name": "AS Raut",
+        "DOB": "3-Mar-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "AS Yadav": {
+        "Player_Name": "AS Yadav",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "AT Rayudu": {
+        "Player_Name": "AT Rayudu",
+        "DOB": "23-Sep-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "AUK Pathan": {
+        "Player_Name": "AUK Pathan",
+        "DOB": "17-Jun-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "AV Wankhade": {
+        "Player_Name": "AV Wankhade",
+        "DOB": "14-Mar-92",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "Avesh Khan": {
+        "Player_Name": "Avesh Khan",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "Azhar Mahmood": {
+        "Player_Name": "Azhar Mahmood",
+        "DOB": "28-Feb-75",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Pakistan"
+    },
+    "B Akhil": {
+        "Player_Name": "B Akhil",
+        "DOB": "7-Oct-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "B Aparajith": {
+        "Player_Name": "B Aparajith",
+        "DOB": "8-Jul-94",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "B Chipli": {
+        "Player_Name": "B Chipli",
+        "DOB": "27-Jan-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "B Geeves": {
+        "Player_Name": "B Geeves",
+        "DOB": "13-Jun-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "B Kumar": {
+        "Player_Name": "B Kumar",
+        "DOB": "5-Feb-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "B Laughlin": {
+        "Player_Name": "B Laughlin",
+        "DOB": "3-Oct-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "B Lee": {
+        "Player_Name": "B Lee",
+        "DOB": "8-Nov-76",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Australia"
+    },
+    "B Stanlake": {
+        "Player_Name": "B Stanlake",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "B Sumanth": {
+        "Player_Name": "B Sumanth",
+        "DOB": "10-May-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "BA Bhatt": {
+        "Player_Name": "BA Bhatt",
+        "DOB": "13-May-90",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "BA Stokes": {
+        "Player_Name": "BA Stokes",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "Basil Thampi": {
+        "Player_Name": "Basil Thampi",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "BAW Mendis": {
+        "Player_Name": "BAW Mendis",
+        "DOB": "11-Mar-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Sri Lanka"
+    },
+    "BB McCullum": {
+        "Player_Name": "BB McCullum",
+        "DOB": "27-Sep-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "New Zealand"
+    },
+    "BB Samantray": {
+        "Player_Name": "BB Samantray",
+        "DOB": "14-Dec-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "BB Sran": {
+        "Player_Name": "BB Sran",
+        "DOB": "10-Dec-92",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "India"
+    },
+    "BCJ Cutting": {
+        "Player_Name": "BCJ Cutting",
+        "DOB": "30-Jan-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "BE Hendricks": {
+        "Player_Name": "BE Hendricks",
+        "DOB": "8-Jun-90",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "Bipul Sharma": {
+        "Player_Name": "Bipul Sharma",
+        "DOB": "28-Sep-83",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "BJ Haddin": {
+        "Player_Name": "BJ Haddin",
+        "DOB": "23-Oct-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "Australia"
+    },
+    "BJ Hodge": {
+        "Player_Name": "BJ Hodge",
+        "DOB": "29-Dec-74",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Australia"
+    },
+    "BJ Rohrer": {
+        "Player_Name": "BJ Rohrer",
+        "DOB": "26-Mar-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Australia"
+    },
+    "BMAJ Mendis": {
+        "Player_Name": "BMAJ Mendis",
+        "DOB": "15-Jan-83",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Sri Lanka"
+    },
+    "BR Dunk": {
+        "Player_Name": "BR Dunk",
+        "DOB": "11-Mar-87",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Australia"
+    },
+    "BW Hilfenhaus": {
+        "Player_Name": "BW Hilfenhaus",
+        "DOB": "15-Mar-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Australia"
+    },
+    "C de Grandhomme": {
+        "Player_Name": "C de Grandhomme",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": ""
+    },
+    "C Ganapathy": {
+        "Player_Name": "C Ganapathy",
+        "DOB": "10-Jun-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "C Ingram": {
+        "Player_Name": "C Ingram",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "C Madan": {
+        "Player_Name": "C Madan",
+        "DOB": "15-Oct-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "C Munro": {
+        "Player_Name": "C Munro",
+        "DOB": "11-Mar-87",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "New Zealand"
+    },
+    "C Nanda": {
+        "Player_Name": "C Nanda",
+        "DOB": "29-Mar-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "CA Ingram": {
+        "Player_Name": "CA Ingram",
+        "DOB": "3-Jul-85",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "South Africa"
+    },
+    "CA Lynn": {
+        "Player_Name": "CA Lynn",
+        "DOB": "10-Apr-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Australia"
+    },
+    "CA Pujara": {
+        "Player_Name": "CA Pujara",
+        "DOB": "25-Jan-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "CH Gayle": {
+        "Player_Name": "CH Gayle",
+        "DOB": "21-Sep-79",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "West Indies"
+    },
+    "CH Morris": {
+        "Player_Name": "CH Morris",
+        "DOB": "30-Apr-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "CJ Anderson": {
+        "Player_Name": "CJ Anderson",
+        "DOB": "13-Dec-90",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium-fast",
+        "Country": "New Zealand"
+    },
+    "CJ Ferguson": {
+        "Player_Name": "CJ Ferguson",
+        "DOB": "21-Nov-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "CJ Jordan": {
+        "Player_Name": "CJ Jordan",
+        "DOB": "4-Oct-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "England"
+    },
+    "CJ McKay": {
+        "Player_Name": "CJ McKay",
+        "DOB": "20-Feb-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "CK Kapugedera": {
+        "Player_Name": "CK Kapugedera",
+        "DOB": "24-Feb-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Sri Lanka"
+    },
+    "CK Langeveldt": {
+        "Player_Name": "CK Langeveldt",
+        "DOB": "17-Dec-74",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "England"
+    },
+    "CL White": {
+        "Player_Name": "CL White",
+        "DOB": "18-Aug-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "Australia"
+    },
+    "CM Gautam": {
+        "Player_Name": "CM Gautam",
+        "DOB": "8-Mar-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "CR Brathwaite": {
+        "Player_Name": "CR Brathwaite",
+        "DOB": "18-Jul-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "West Indies"
+    },
+    "CR Woakes": {
+        "Player_Name": "CR Woakes",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "CRD Fernando": {
+        "Player_Name": "CRD Fernando",
+        "DOB": "19-Jul-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Sri Lanka"
+    },
+    "D du Preez": {
+        "Player_Name": "D du Preez",
+        "DOB": "8-Nov-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "D Kalyankrishna": {
+        "Player_Name": "D Kalyankrishna",
+        "DOB": "16-Dec-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "D Salunkhe": {
+        "Player_Name": "D Salunkhe",
+        "DOB": "12-Nov-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "D Shorey": {
+        "Player_Name": "D Shorey",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "D Short": {
+        "Player_Name": "D Short",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": ""
+    },
+    "D Wiese": {
+        "Player_Name": "D Wiese",
+        "DOB": "18-May-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "South Africa"
+    },
+    "D Willey": {
+        "Player_Name": "D Willey",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": ""
+    },
+    "DA Miller": {
+        "Player_Name": "DA Miller",
+        "DOB": "10-Jun-89",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "South Africa"
+    },
+    "DA Warner": {
+        "Player_Name": "DA Warner",
+        "DOB": "27-Oct-86",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "Australia"
+    },
+    "DAJ Bracewell": {
+        "Player_Name": "DAJ Bracewell",
+        "DOB": "28-Sep-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "New Zealand"
+    },
+    "DB Das": {
+        "Player_Name": "DB Das",
+        "DOB": "22-Sep-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "DB Ravi Teja": {
+        "Player_Name": "DB Ravi Teja",
+        "DOB": "5-Sep-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "DE Bollinger": {
+        "Player_Name": "DE Bollinger",
+        "DOB": "24-Jul-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "Australia"
+    },
+    "DH Yagnik": {
+        "Player_Name": "DH Yagnik",
+        "DOB": "22-Jun-83",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "DJ Bravo": {
+        "Player_Name": "DJ Bravo",
+        "DOB": "7-Oct-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "West Indies"
+    },
+    "DJ Harris": {
+        "Player_Name": "DJ Harris",
+        "DOB": "31-Dec-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "DJ Hooda": {
+        "Player_Name": "DJ Hooda",
+        "DOB": "19-Apr-95",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "DJ Hussey": {
+        "Player_Name": "DJ Hussey",
+        "DOB": "15-Jul-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Australia"
+    },
+    "DJ Jacobs": {
+        "Player_Name": "DJ Jacobs",
+        "DOB": "4-Nov-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "South Africa"
+    },
+    "DJ Muthuswami": {
+        "Player_Name": "DJ Muthuswami",
+        "DOB": "9-Mar-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "DJ Thornely": {
+        "Player_Name": "DJ Thornely",
+        "DOB": "1-Oct-78",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "DJG Sammy": {
+        "Player_Name": "DJG Sammy",
+        "DOB": "20-Dec-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "West Indies"
+    },
+    "DL Chahar": {
+        "Player_Name": "DL Chahar",
+        "DOB": "7-Aug-92",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "DL Vettori": {
+        "Player_Name": "DL Vettori",
+        "DOB": "27-Jan-79",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "New Zealand"
+    },
+    "DM Bravo": {
+        "Player_Name": "DM Bravo",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "DNT Zoysa": {
+        "Player_Name": "DNT Zoysa",
+        "DOB": "13-May-78",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "Sri Lanka"
+    },
+    "DP Nannes": {
+        "Player_Name": "DP Nannes",
+        "DOB": "16-May-76",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm fast",
+        "Country": "Australia"
+    },
+    "DP Vijaykumar": {
+        "Player_Name": "DP Vijaykumar",
+        "DOB": "20-Oct-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "DPMD Jayawardene": {
+        "Player_Name": "DPMD Jayawardene",
+        "DOB": "27-May-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Sri Lanka"
+    },
+    "DR Martyn": {
+        "Player_Name": "DR Martyn",
+        "DOB": "21-Oct-71",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "DR Smith": {
+        "Player_Name": "DR Smith",
+        "DOB": "12-Apr-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "West Indies"
+    },
+    "DS Kulkarni": {
+        "Player_Name": "DS Kulkarni",
+        "DOB": "10-Dec-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "DS Lehmann": {
+        "Player_Name": "DS Lehmann",
+        "DOB": "5-Feb-70",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Australia"
+    },
+    "DT Christian": {
+        "Player_Name": "DT Christian",
+        "DOB": "4-May-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "DT Patil": {
+        "Player_Name": "DT Patil",
+        "DOB": "6-Dec-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "DW Steyn": {
+        "Player_Name": "DW Steyn",
+        "DOB": "27-Jun-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "South Africa"
+    },
+    "E Lewis": {
+        "Player_Name": "E Lewis",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "EJG Morgan": {
+        "Player_Name": "EJG Morgan",
+        "DOB": "10-Sep-86",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "England"
+    },
+    "ER Dwivedi": {
+        "Player_Name": "ER Dwivedi",
+        "DOB": "22-Jul-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "F Behardien": {
+        "Player_Name": "F Behardien",
+        "DOB": "9-Oct-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "F du Plessis": {
+        "Player_Name": "F du Plessis",
+        "DOB": "13-Jul-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "South Africa"
+    },
+    "FH Edwards": {
+        "Player_Name": "FH Edwards",
+        "DOB": "6-Feb-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "West Indies"
+    },
+    "FY Fazal": {
+        "Player_Name": "FY Fazal",
+        "DOB": "7-Sep-85",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "G Gambhir": {
+        "Player_Name": "G Gambhir",
+        "DOB": "14-Oct-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "Gagandeep Singh": {
+        "Player_Name": "Gagandeep Singh",
+        "DOB": "3-Oct-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "GB Hogg": {
+        "Player_Name": "GB Hogg",
+        "DOB": "6-Feb-71",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm chinaman",
+        "Country": "Australia"
+    },
+    "GC Smith": {
+        "Player_Name": "GC Smith",
+        "DOB": "1-Feb-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "South Africa"
+    },
+    "GD McGrath": {
+        "Player_Name": "GD McGrath",
+        "DOB": "9-Feb-70",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "GH Vihari": {
+        "Player_Name": "GH Vihari",
+        "DOB": "13-Oct-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "GJ Bailey": {
+        "Player_Name": "GJ Bailey",
+        "DOB": "7-Sep-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "GJ Maxwell": {
+        "Player_Name": "GJ Maxwell",
+        "DOB": "14-Oct-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Australia"
+    },
+    "GR Napier": {
+        "Player_Name": "GR Napier",
+        "DOB": "6-Jan-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "England"
+    },
+    "GS Sandhu": {
+        "Player_Name": "GS Sandhu",
+        "DOB": "14-Jun-93",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "Gurkeerat Singh": {
+        "Player_Name": "Gurkeerat Singh",
+        "DOB": "29-Jun-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "H Brar": {
+        "Player_Name": "H Brar",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": ""
+    },
+    "H Das": {
+        "Player_Name": "H Das",
+        "DOB": "10-Dec-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "H Gurney": {
+        "Player_Name": "H Gurney",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "H Klaasen": {
+        "Player_Name": "H Klaasen",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "H Vihari": {
+        "Player_Name": "H Vihari",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": ""
+    },
+    "H Viljoen": {
+        "Player_Name": "H Viljoen",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "Harbhajan Singh": {
+        "Player_Name": "Harbhajan Singh",
+        "DOB": "3-Jul-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Harmeet Singh": {
+        "Player_Name": "Harmeet Singh",
+        "DOB": "7-Sep-92",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "Harmeet Singh (2)": {
+        "Player_Name": "Harmeet Singh (2)",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "Harpreet Singh": {
+        "Player_Name": "Harpreet Singh",
+        "DOB": "11-Aug-91",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "HH Gibbs": {
+        "Player_Name": "HH Gibbs",
+        "DOB": "23-Feb-74",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm bowler",
+        "Country": "South Africa"
+    },
+    "HH Pandya": {
+        "Player_Name": "HH Pandya",
+        "DOB": "11-Oct-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "HM Amla": {
+        "Player_Name": "HM Amla",
+        "DOB": "31-Mar-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "South Africa"
+    },
+    "HV Patel": {
+        "Player_Name": "HV Patel",
+        "DOB": "23-Nov-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "I Malhotra": {
+        "Player_Name": "I Malhotra",
+        "DOB": "23-May-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "I Sharma": {
+        "Player_Name": "I Sharma",
+        "DOB": "2-Sep-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "India"
+    },
+    "I Sodhi": {
+        "Player_Name": "I Sodhi",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": ""
+    },
+    "IC Pandey": {
+        "Player_Name": "IC Pandey",
+        "DOB": "15-Aug-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "IK Pathan": {
+        "Player_Name": "IK Pathan",
+        "DOB": "27-Oct-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium-fast",
+        "Country": "India"
+    },
+    "Imran Tahir": {
+        "Player_Name": "Imran Tahir",
+        "DOB": "27-Mar-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "Iqbal Abdulla": {
+        "Player_Name": "Iqbal Abdulla",
+        "DOB": "2-Dec-89",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "IR Jaggi": {
+        "Player_Name": "IR Jaggi",
+        "DOB": "27-Jan-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "Ishan Kishan": {
+        "Player_Name": "Ishan Kishan",
+        "DOB": "18-Jul-98",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "J Archer": {
+        "Player_Name": "J Archer",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "J Arunkumar": {
+        "Player_Name": "J Arunkumar",
+        "DOB": "18-Jan-75",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "J Bairstow": {
+        "Player_Name": "J Bairstow",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "J Behrendorff": {
+        "Player_Name": "J Behrendorff",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": ""
+    },
+    "J Botha": {
+        "Player_Name": "J Botha",
+        "DOB": "2-May-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "South Africa"
+    },
+    "J Dala": {
+        "Player_Name": "J Dala",
+        "DOB": "",
+        "Batting_Hand": "",
+        "Bowling_Skill": "Right-arm Medium",
+        "Country": ""
+    },
+    "J Denly": {
+        "Player_Name": "J Denly",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "J Searles": {
+        "Player_Name": "J Searles",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "J Suchith": {
+        "Player_Name": "J Suchith",
+        "DOB": "16-Jan-94",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "J Syed Mohammad": {
+        "Player_Name": "J Syed Mohammad",
+        "DOB": "3-Jun-83",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "J Theron": {
+        "Player_Name": "J Theron",
+        "DOB": "24-Jul-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "South Africa"
+    },
+    "J Yadav": {
+        "Player_Name": "J Yadav",
+        "DOB": "22-Jan-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "JA Morkel": {
+        "Player_Name": "JA Morkel",
+        "DOB": "10-Jun-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "South Africa"
+    },
+    "Jaskaran Singh": {
+        "Player_Name": "Jaskaran Singh",
+        "DOB": "4-Sep-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "JC Buttler": {
+        "Player_Name": "JC Buttler",
+        "DOB": "8-Sep-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "England"
+    },
+    "JD Ryder": {
+        "Player_Name": "JD Ryder",
+        "DOB": "6-Aug-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "New Zealand"
+    },
+    "JD Unadkat": {
+        "Player_Name": "JD Unadkat",
+        "DOB": "18-Oct-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "India"
+    },
+    "JDP Oram": {
+        "Player_Name": "JDP Oram",
+        "DOB": "28-Jul-78",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "New Zealand"
+    },
+    "JDS Neesham": {
+        "Player_Name": "JDS Neesham",
+        "DOB": "17-Sep-90",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "New Zealand"
+    },
+    "JE Taylor": {
+        "Player_Name": "JE Taylor",
+        "DOB": "22-Jun-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "New Zealand"
+    },
+    "JEC Franklin": {
+        "Player_Name": "JEC Franklin",
+        "DOB": "7-Nov-80",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "New Zealand"
+    },
+    "JH Kallis": {
+        "Player_Name": "JH Kallis",
+        "DOB": "16-Oct-75",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "JJ Bumrah": {
+        "Player_Name": "JJ Bumrah",
+        "DOB": "6-Dec-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "JJ Roy": {
+        "Player_Name": "JJ Roy",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "JJ van der Wath": {
+        "Player_Name": "JJ van der Wath",
+        "DOB": "10-Jan-78",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "South Africa"
+    },
+    "JM Kemp": {
+        "Player_Name": "JM Kemp",
+        "DOB": "2-Oct-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "JO Holder": {
+        "Player_Name": "JO Holder",
+        "DOB": "5-Nov-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "West Indies"
+    },
+    "Joginder Sharma": {
+        "Player_Name": "Joginder Sharma",
+        "DOB": "23-Oct-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "India"
+    },
+    "JP Duminy": {
+        "Player_Name": "JP Duminy",
+        "DOB": "14-Apr-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "South Africa"
+    },
+    "JP Faulkner": {
+        "Player_Name": "JP Faulkner",
+        "DOB": "29-Apr-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "Australia"
+    },
+    "JR Hopes": {
+        "Player_Name": "JR Hopes",
+        "DOB": "24-Oct-78",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "JW Hastings": {
+        "Player_Name": "JW Hastings",
+        "DOB": "4-Nov-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "K Ahmed": {
+        "Player_Name": "K Ahmed",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": ""
+    },
+    "K Goel": {
+        "Player_Name": "K Goel",
+        "DOB": "24-Dec-86",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "K Gowtham": {
+        "Player_Name": "K Gowtham",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": ""
+    },
+    "K Khejroliya": {
+        "Player_Name": "K Khejroliya",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": ""
+    },
+    "K Paul": {
+        "Player_Name": "K Paul",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "K Rabada": {
+        "Player_Name": "K Rabada",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "K Santokie": {
+        "Player_Name": "K Santokie",
+        "DOB": "20-Dec-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "West Indies"
+    },
+    "K Upadhyay": {
+        "Player_Name": "K Upadhyay",
+        "DOB": "18-Jun-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "KA Pollard": {
+        "Player_Name": "KA Pollard",
+        "DOB": "12-May-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "West Indies"
+    },
+    "KAJ Roach": {
+        "Player_Name": "KAJ Roach",
+        "DOB": "30-Jun-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "West Indies"
+    },
+    "Kamran Akmal": {
+        "Player_Name": "Kamran Akmal",
+        "DOB": "13-Jan-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "Pakistan"
+    },
+    "Kamran Khan": {
+        "Player_Name": "Kamran Khan",
+        "DOB": "10-Mar-91",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium-fast",
+        "Country": "India"
+    },
+    "Karanveer Singh": {
+        "Player_Name": "Karanveer Singh",
+        "DOB": "8-Nov-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "KB Arun Karthik": {
+        "Player_Name": "KB Arun Karthik",
+        "DOB": "15-Feb-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "KC Cariappa": {
+        "Player_Name": "KC Cariappa",
+        "DOB": "13-Apr-94",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "KC Sangakkara": {
+        "Player_Name": "KC Sangakkara",
+        "DOB": "27-Oct-77",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Sri Lanka"
+    },
+    "KD Karthik": {
+        "Player_Name": "KD Karthik",
+        "DOB": "1-Jun-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "KH Devdhar": {
+        "Player_Name": "KH Devdhar",
+        "DOB": "14-Dec-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "KH Pandya": {
+        "Player_Name": "KH Pandya",
+        "DOB": "24-Mar-91",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "KJ Abbott": {
+        "Player_Name": "KJ Abbott",
+        "DOB": "18-Jun-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "KK Cooper": {
+        "Player_Name": "KK Cooper",
+        "DOB": "16-Feb-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "West Indies"
+    },
+    "KK Nair": {
+        "Player_Name": "KK Nair",
+        "DOB": "6-Dec-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "KL Rahul": {
+        "Player_Name": "KL Rahul",
+        "DOB": "18-Apr-92",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "KM Asif": {
+        "Player_Name": "KM Asif",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": ""
+    },
+    "KM Jadhav": {
+        "Player_Name": "KM Jadhav",
+        "DOB": "26-Mar-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "KMDN Kulasekara": {
+        "Player_Name": "KMDN Kulasekara",
+        "DOB": "22-Jul-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Sri Lanka"
+    },
+    "KP Appanna": {
+        "Player_Name": "KP Appanna",
+        "DOB": "20-Dec-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "KP Pietersen": {
+        "Player_Name": "KP Pietersen",
+        "DOB": "27-Jun-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "South Africa"
+    },
+    "KS Williamson": {
+        "Player_Name": "KS Williamson",
+        "DOB": "8-Aug-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "New Zealand"
+    },
+    "Kuldeep Yadav": {
+        "Player_Name": "Kuldeep Yadav",
+        "DOB": "14-Dec-94",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm chinaman",
+        "Country": "India"
+    },
+    "KV Sharma": {
+        "Player_Name": "KV Sharma",
+        "DOB": "23-Oct-87",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "KW Richardson": {
+        "Player_Name": "KW Richardson",
+        "DOB": "12-Feb-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "L Ablish": {
+        "Player_Name": "L Ablish",
+        "DOB": "3-Dec-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "L Balaji": {
+        "Player_Name": "L Balaji",
+        "DOB": "27-Sep-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "L Ferguson": {
+        "Player_Name": "L Ferguson",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "L Livingstone": {
+        "Player_Name": "L Livingstone",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": ""
+    },
+    "L Ngidi": {
+        "Player_Name": "L Ngidi",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": ""
+    },
+    "L Plunkett": {
+        "Player_Name": "L Plunkett",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "L Ronchi": {
+        "Player_Name": "L Ronchi",
+        "DOB": "23-Apr-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Australia"
+    },
+    "LA Carseldine": {
+        "Player_Name": "LA Carseldine",
+        "DOB": "17-Nov-75",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "Australia"
+    },
+    "LA Pomersbach": {
+        "Player_Name": "LA Pomersbach",
+        "DOB": "28-Sep-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "LH Ferguson": {
+        "Player_Name": "LH Ferguson",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "LJ Wright": {
+        "Player_Name": "LJ Wright",
+        "DOB": "7-Mar-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "England"
+    },
+    "LMP Simmons": {
+        "Player_Name": "LMP Simmons",
+        "DOB": "25-Jan-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "West Indies"
+    },
+    "LPC Silva": {
+        "Player_Name": "LPC Silva",
+        "DOB": "14-Dec-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "Sri Lanka"
+    },
+    "LR Shukla": {
+        "Player_Name": "LR Shukla",
+        "DOB": "6-May-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "LRPL Taylor": {
+        "Player_Name": "LRPL Taylor",
+        "DOB": "8-Mar-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "New Zealand"
+    },
+    "M Ali": {
+        "Player_Name": "M Ali",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": ""
+    },
+    "M Ashwin": {
+        "Player_Name": "M Ashwin",
+        "DOB": "8-Sep-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "M de Lange": {
+        "Player_Name": "M de Lange",
+        "DOB": "13-Oct-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "South Africa"
+    },
+    "M Kaif": {
+        "Player_Name": "M Kaif",
+        "DOB": "1-Dec-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "M Kartik": {
+        "Player_Name": "M Kartik",
+        "DOB": "11-Sep-76",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "M Klinger": {
+        "Player_Name": "M Klinger",
+        "DOB": "4-Jul-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "Australia"
+    },
+    "M Lomror": {
+        "Player_Name": "M Lomror",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": ""
+    },
+    "M Manhas": {
+        "Player_Name": "M Manhas",
+        "DOB": "12-Oct-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "M Markande": {
+        "Player_Name": "M Markande",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": ""
+    },
+    "M Morkel": {
+        "Player_Name": "M Morkel",
+        "DOB": "6-Oct-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "South Africa"
+    },
+    "M Muralitharan": {
+        "Player_Name": "M Muralitharan",
+        "DOB": "17-Apr-72",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Sri Lanka"
+    },
+    "M Ntini": {
+        "Player_Name": "M Ntini",
+        "DOB": "6-Jul-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "South Africa"
+    },
+    "M Rawat": {
+        "Player_Name": "M Rawat",
+        "DOB": "25-Oct-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "M Santner": {
+        "Player_Name": "M Santner",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": ""
+    },
+    "M Ur Rahman": {
+        "Player_Name": "M Ur Rahman",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": ""
+    },
+    "M Vijay": {
+        "Player_Name": "M Vijay",
+        "DOB": "1-Apr-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "M Vohra": {
+        "Player_Name": "M Vohra",
+        "DOB": "18-Jul-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "M Wood": {
+        "Player_Name": "M Wood",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "MA Agarwal": {
+        "Player_Name": "MA Agarwal",
+        "DOB": "16-Feb-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "MA Khote": {
+        "Player_Name": "MA Khote",
+        "DOB": "22-Apr-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "MA Starc": {
+        "Player_Name": "MA Starc",
+        "DOB": "30-Jan-90",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast",
+        "Country": "Australia"
+    },
+    "Mandeep Singh": {
+        "Player_Name": "Mandeep Singh",
+        "DOB": "18-Dec-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "Mashrafe Mortaza": {
+        "Player_Name": "Mashrafe Mortaza",
+        "DOB": "5-Oct-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Bangladesh"
+    },
+    "MB Parmar": {
+        "Player_Name": "MB Parmar",
+        "DOB": "12-Apr-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "MC Henriques": {
+        "Player_Name": "MC Henriques",
+        "DOB": "1-Feb-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "MC Juneja": {
+        "Player_Name": "MC Juneja",
+        "DOB": "12-Sep-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "MD Mishra": {
+        "Player_Name": "MD Mishra",
+        "DOB": "9-Feb-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "MDKJ Perera": {
+        "Player_Name": "MDKJ Perera",
+        "DOB": "17-Aug-90",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "Sri Lanka"
+    },
+    "MEK Hussey": {
+        "Player_Name": "MEK Hussey",
+        "DOB": "27-May-75",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "MF Maharoof": {
+        "Player_Name": "MF Maharoof",
+        "DOB": "7-Sep-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "India"
+    },
+    "MG Johnson": {
+        "Player_Name": "MG Johnson",
+        "DOB": "2-Nov-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast",
+        "Country": "Australia"
+    },
+    "MG Neser": {
+        "Player_Name": "MG Neser",
+        "DOB": "29-Mar-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "Misbah-ul-Haq": {
+        "Player_Name": "Misbah-ul-Haq",
+        "DOB": "28-May-74",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "Pakistan"
+    },
+    "MJ Clarke": {
+        "Player_Name": "MJ Clarke",
+        "DOB": "2-Apr-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Australia"
+    },
+    "MJ Guptill": {
+        "Player_Name": "MJ Guptill",
+        "DOB": "30-Sep-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "New Zealand"
+    },
+    "MJ Henry": {
+        "Player_Name": "MJ Henry",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "MJ Lumb": {
+        "Player_Name": "MJ Lumb",
+        "DOB": "12-Feb-80",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "England"
+    },
+    "MJ McClenaghan": {
+        "Player_Name": "MJ McClenaghan",
+        "DOB": "11-Jun-86",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "New Zealand"
+    },
+    "MK Pandey": {
+        "Player_Name": "MK Pandey",
+        "DOB": "10-Sep-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "MK Tiwary": {
+        "Player_Name": "MK Tiwary",
+        "DOB": "14-Nov-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "ML Hayden": {
+        "Player_Name": "ML Hayden",
+        "DOB": "29-Oct-71",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "MM Patel": {
+        "Player_Name": "MM Patel",
+        "DOB": "12-Jul-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "MM Sharma": {
+        "Player_Name": "MM Sharma",
+        "DOB": "18-Sep-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "MN Samuels": {
+        "Player_Name": "MN Samuels",
+        "DOB": "5-Feb-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "West Indies"
+    },
+    "MN van Wyk": {
+        "Player_Name": "MN van Wyk",
+        "DOB": "20-Mar-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "South Africa"
+    },
+    "Mohammad Ashraful": {
+        "Player_Name": "Mohammad Ashraful",
+        "DOB": "7-Jul-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Bangladesh"
+    },
+    "Mohammad Asif": {
+        "Player_Name": "Mohammad Asif",
+        "DOB": "20-Dec-82",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Pakistan"
+    },
+    "Mohammad Hafeez": {
+        "Player_Name": "Mohammad Hafeez",
+        "DOB": "17-Oct-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Pakistan"
+    },
+    "Mohammad Nabi": {
+        "Player_Name": "Mohammad Nabi",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": ""
+    },
+    "Mohammed Shami": {
+        "Player_Name": "Mohammed Shami",
+        "DOB": "3-Sep-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "India"
+    },
+    "Mohammed Siraj": {
+        "Player_Name": "Mohammed Siraj",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "MP Stoinis": {
+        "Player_Name": "MP Stoinis",
+        "DOB": "16-Aug-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "MR Marsh": {
+        "Player_Name": "MR Marsh",
+        "DOB": "20-Oct-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "MS Bisla": {
+        "Player_Name": "MS Bisla",
+        "DOB": "27-Dec-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "MS Dhoni": {
+        "Player_Name": "MS Dhoni",
+        "DOB": "7-Jul-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "MS Gony": {
+        "Player_Name": "MS Gony",
+        "DOB": "4-Jan-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "MS Wade": {
+        "Player_Name": "MS Wade",
+        "DOB": "26-Dec-87",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "Mustafizur Rahman": {
+        "Player_Name": "Mustafizur Rahman",
+        "DOB": "6-Sep-95",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "Bangladesh"
+    },
+    "MV Boucher": {
+        "Player_Name": "MV Boucher",
+        "DOB": "3-Dec-76",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "South Africa"
+    },
+    "N Naik": {
+        "Player_Name": "N Naik",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "N Pooran": {
+        "Player_Name": "N Pooran",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "N Rana": {
+        "Player_Name": "N Rana",
+        "DOB": "27-Dec-93",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "N Saini": {
+        "Player_Name": "N Saini",
+        "DOB": "28-Oct-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "India"
+    },
+    "NB Singh": {
+        "Player_Name": "NB Singh",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "ND Doshi": {
+        "Player_Name": "ND Doshi",
+        "DOB": "6-Oct-78",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "Niraj Patel": {
+        "Player_Name": "Niraj Patel",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "NJ Maddinson": {
+        "Player_Name": "NJ Maddinson",
+        "DOB": "21-Dec-91",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Australia"
+    },
+    "NJ Rimmington": {
+        "Player_Name": "NJ Rimmington",
+        "DOB": "11-Nov-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "NK Patel": {
+        "Player_Name": "NK Patel",
+        "DOB": "26-Mar-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "NL McCullum": {
+        "Player_Name": "NL McCullum",
+        "DOB": "1-Sep-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "New Zealand"
+    },
+    "NLTC Perera": {
+        "Player_Name": "NLTC Perera",
+        "DOB": "3-Apr-89",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "Sri Lanka"
+    },
+    "NM Coulter-Nile": {
+        "Player_Name": "NM Coulter-Nile",
+        "DOB": "11-Oct-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Australia"
+    },
+    "NS Naik": {
+        "Player_Name": "NS Naik",
+        "DOB": "9-Nov-94",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "NV Ojha": {
+        "Player_Name": "NV Ojha",
+        "DOB": "20-Jul-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "O Thomas": {
+        "Player_Name": "O Thomas",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "OA Shah": {
+        "Player_Name": "OA Shah",
+        "DOB": "22-Oct-78",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "England"
+    },
+    "P Amarnath": {
+        "Player_Name": "P Amarnath",
+        "DOB": "1-Jun-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "P Awana": {
+        "Player_Name": "P Awana",
+        "DOB": "19-Jul-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "P Chopra": {
+        "Player_Name": "P Chopra",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "P Dharmani": {
+        "Player_Name": "P Dharmani",
+        "DOB": "27-Sep-74",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "P Dogra": {
+        "Player_Name": "P Dogra",
+        "DOB": "19-Nov-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "P Krishna": {
+        "Player_Name": "P Krishna",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "P Kumar": {
+        "Player_Name": "P Kumar",
+        "DOB": "2-Oct-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "P Negi": {
+        "Player_Name": "P Negi",
+        "DOB": "6-Jan-93",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "P Parameswaran": {
+        "Player_Name": "P Parameswaran",
+        "DOB": "30-May-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "India"
+    },
+    "P Prasanth": {
+        "Player_Name": "P Prasanth",
+        "DOB": "22-May-85",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "P R Barman": {
+        "Player_Name": "P R Barman",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": ""
+    },
+    "P Raj": {
+        "Player_Name": "P Raj",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": ""
+    },
+    "P Sahu": {
+        "Player_Name": "P Sahu",
+        "DOB": "21-Aug-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "P Shaw": {
+        "Player_Name": "P Shaw",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "P Suyal": {
+        "Player_Name": "P Suyal",
+        "DOB": "15-Oct-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "India"
+    },
+    "PA Patel": {
+        "Player_Name": "PA Patel",
+        "DOB": "9-Mar-85",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "PA Reddy": {
+        "Player_Name": "PA Reddy",
+        "DOB": "11-Feb-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "Pankaj Singh": {
+        "Player_Name": "Pankaj Singh",
+        "DOB": "6-May-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "Parvez Rasool": {
+        "Player_Name": "Parvez Rasool",
+        "DOB": "13-Feb-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "PC Valthaty": {
+        "Player_Name": "PC Valthaty",
+        "DOB": "7-Dec-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "PD Collingwood": {
+        "Player_Name": "PD Collingwood",
+        "DOB": "26-May-76",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "England"
+    },
+    "PJ Cummins": {
+        "Player_Name": "PJ Cummins",
+        "DOB": "8-May-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Australia"
+    },
+    "PJ Sangwan": {
+        "Player_Name": "PJ Sangwan",
+        "DOB": "5-Nov-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "India"
+    },
+    "PM Sarvesh Kumar": {
+        "Player_Name": "PM Sarvesh Kumar",
+        "DOB": "26-Apr-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "PP Chawla": {
+        "Player_Name": "PP Chawla",
+        "DOB": "24-Dec-88",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "PP Ojha": {
+        "Player_Name": "PP Ojha",
+        "DOB": "5-Sep-86",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "PR Shah": {
+        "Player_Name": "PR Shah",
+        "DOB": "3-Nov-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "PSP Handscomb": {
+        "Player_Name": "PSP Handscomb",
+        "DOB": "26-Apr-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "Australia"
+    },
+    "PV Tambe": {
+        "Player_Name": "PV Tambe",
+        "DOB": "8-Oct-71",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "Q de Kock": {
+        "Player_Name": "Q de Kock",
+        "DOB": "17-Dec-92",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "South Africa"
+    },
+    "R Ashwin": {
+        "Player_Name": "R Ashwin",
+        "DOB": "17-Sep-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "R Bhatia": {
+        "Player_Name": "R Bhatia",
+        "DOB": "22-Oct-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "R Bhui": {
+        "Player_Name": "R Bhui",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "R Bishnoi": {
+        "Player_Name": "R Bishnoi",
+        "DOB": "8-Oct-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "R Dhawan": {
+        "Player_Name": "R Dhawan",
+        "DOB": "19-Feb-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "R Dravid": {
+        "Player_Name": "R Dravid",
+        "DOB": "11-Jan-73",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "R McLaren": {
+        "Player_Name": "R McLaren",
+        "DOB": "9-Feb-83",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "South Africa"
+    },
+    "R Ninan": {
+        "Player_Name": "R Ninan",
+        "DOB": "19-Nov-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "R Parag": {
+        "Player_Name": "R Parag",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": ""
+    },
+    "R Rampaul": {
+        "Player_Name": "R Rampaul",
+        "DOB": "15-Oct-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "West Indies"
+    },
+    "R Salam": {
+        "Player_Name": "R Salam",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm Fast",
+        "Country": ""
+    },
+    "R Sathish": {
+        "Player_Name": "R Sathish",
+        "DOB": "14-Jan-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "R Sharma": {
+        "Player_Name": "R Sharma",
+        "DOB": "30-Apr-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "R Shukla": {
+        "Player_Name": "R Shukla",
+        "DOB": "28-Aug-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "R Singh": {
+        "Player_Name": "R Singh",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "R Tewatia": {
+        "Player_Name": "R Tewatia",
+        "DOB": "20-May-93",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "R Vinay Kumar": {
+        "Player_Name": "R Vinay Kumar",
+        "DOB": "12-Feb-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "RA Jadeja": {
+        "Player_Name": "RA Jadeja",
+        "DOB": "6-Dec-88",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "RA Shaikh": {
+        "Player_Name": "RA Shaikh",
+        "DOB": "12-Jun-85",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium",
+        "Country": "India"
+    },
+    "RA Tripathi": {
+        "Player_Name": "RA Tripathi",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": ""
+    },
+    "Rashid Khan": {
+        "Player_Name": "Rashid Khan",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": ""
+    },
+    "RD Chahar": {
+        "Player_Name": "RD Chahar",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": ""
+    },
+    "RE Levi": {
+        "Player_Name": "RE Levi",
+        "DOB": "14-Jan-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "South Africa"
+    },
+    "RE van der Merwe": {
+        "Player_Name": "RE van der Merwe",
+        "DOB": "31-Dec-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "South Africa"
+    },
+    "RG More": {
+        "Player_Name": "RG More",
+        "DOB": "2-Feb-92",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "RG Sharma": {
+        "Player_Name": "RG Sharma",
+        "DOB": "30-Apr-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "RJ Harris": {
+        "Player_Name": "RJ Harris",
+        "DOB": "11-Oct-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Australia"
+    },
+    "RJ Peterson": {
+        "Player_Name": "RJ Peterson",
+        "DOB": "4-Aug-79",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "South Africa"
+    },
+    "RJ Quiney": {
+        "Player_Name": "RJ Quiney",
+        "DOB": "20-Aug-82",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "RN ten Doeschate": {
+        "Player_Name": "RN ten Doeschate",
+        "DOB": "30-Jun-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "Netherlands"
+    },
+    "RP Singh": {
+        "Player_Name": "RP Singh",
+        "DOB": "6-Dec-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "India"
+    },
+    "RR Bhatkal": {
+        "Player_Name": "RR Bhatkal",
+        "DOB": "1-Sep-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "RR Bose": {
+        "Player_Name": "RR Bose",
+        "DOB": "27-Feb-79",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "India"
+    },
+    "RR Pant": {
+        "Player_Name": "RR Pant",
+        "DOB": "4-Oct-97",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "RR Powar": {
+        "Player_Name": "RR Powar",
+        "DOB": "20-May-78",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "RR Raje": {
+        "Player_Name": "RR Raje",
+        "DOB": "3-Sep-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "India"
+    },
+    "RR Rossouw": {
+        "Player_Name": "RR Rossouw",
+        "DOB": "9-Oct-89",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "South Africa"
+    },
+    "RR Sarwan": {
+        "Player_Name": "RR Sarwan",
+        "DOB": "23-Jun-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "West Indies"
+    },
+    "RS Bopara": {
+        "Player_Name": "RS Bopara",
+        "DOB": "4-May-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "England"
+    },
+    "RS Gavaskar": {
+        "Player_Name": "RS Gavaskar",
+        "DOB": "20-Feb-76",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "RS Sodhi": {
+        "Player_Name": "RS Sodhi",
+        "DOB": "18-Oct-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "RT Ponting": {
+        "Player_Name": "RT Ponting",
+        "DOB": "19-Dec-74",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "RV Gomez": {
+        "Player_Name": "RV Gomez",
+        "DOB": "16-Oct-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "RV Pawar": {
+        "Player_Name": "RV Pawar",
+        "DOB": "6-Sep-79",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "RV Uthappa": {
+        "Player_Name": "RV Uthappa",
+        "DOB": "11-Nov-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "RW Price": {
+        "Player_Name": "RW Price",
+        "DOB": "12-Jun-76",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Zimbabwea"
+    },
+    "S Anirudha": {
+        "Player_Name": "S Anirudha",
+        "DOB": "14-Apr-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "S Aravind": {
+        "Player_Name": "S Aravind",
+        "DOB": "8-Apr-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium-fast",
+        "Country": "India"
+    },
+    "S Badree": {
+        "Player_Name": "S Badree",
+        "DOB": "9-Mar-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "West Indies"
+    },
+    "S Badrinath": {
+        "Player_Name": "S Badrinath",
+        "DOB": "30-Aug-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "S Chanderpaul": {
+        "Player_Name": "S Chanderpaul",
+        "DOB": "16-Aug-74",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "West Indies"
+    },
+    "S Curran": {
+        "Player_Name": "S Curran",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium-fast",
+        "Country": ""
+    },
+    "S Dhawan": {
+        "Player_Name": "S Dhawan",
+        "DOB": "5-Dec-85",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "S Dube": {
+        "Player_Name": "S Dube",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "S Gill": {
+        "Player_Name": "S Gill",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "S Gopal": {
+        "Player_Name": "S Gopal",
+        "DOB": "4-Sep-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "S Hetmyer": {
+        "Player_Name": "S Hetmyer",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "S Kaul": {
+        "Player_Name": "S Kaul",
+        "DOB": "19-May-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "S Kaushik": {
+        "Player_Name": "S Kaushik",
+        "DOB": "7-Sep-95",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm chinaman",
+        "Country": "India"
+    },
+    "S Kuggeleijn": {
+        "Player_Name": "S Kuggeleijn",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": ""
+    },
+    "S Ladda": {
+        "Player_Name": "S Ladda",
+        "DOB": "10-Jul-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "S Lamichhane": {
+        "Player_Name": "S Lamichhane",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": ""
+    },
+    "S Mavi": {
+        "Player_Name": "S Mavi",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "S Midhun": {
+        "Player_Name": "S Midhun",
+        "DOB": "",
+        "Batting_Hand": "",
+        "Bowling_Skill": "Legbreak",
+        "Country": ""
+    },
+    "S Nadeem": {
+        "Player_Name": "S Nadeem",
+        "DOB": "12-Aug-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "S Narwal": {
+        "Player_Name": "S Narwal",
+        "DOB": "16-Apr-82",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "S Rana": {
+        "Player_Name": "S Rana",
+        "DOB": "18-Sep-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "S Randiv": {
+        "Player_Name": "S Randiv",
+        "DOB": "30-Jan-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Sri Lanka"
+    },
+    "S Rutherford": {
+        "Player_Name": "S Rutherford",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "S Sharma": {
+        "Player_Name": "S Sharma",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "S Singh": {
+        "Player_Name": "S Singh",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "S Sohal": {
+        "Player_Name": "S Sohal",
+        "DOB": "10-Nov-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "S Sreesanth": {
+        "Player_Name": "S Sreesanth",
+        "DOB": "6-Feb-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "India"
+    },
+    "S Sriram": {
+        "Player_Name": "S Sriram",
+        "DOB": "21-Feb-76",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "S Tyagi": {
+        "Player_Name": "S Tyagi",
+        "DOB": "17-Sep-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "S Vidyut": {
+        "Player_Name": "S Vidyut",
+        "DOB": "3-Dec-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "S Warrier": {
+        "Player_Name": "S Warrier",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "SA Abbott": {
+        "Player_Name": "SA Abbott",
+        "DOB": "29-Feb-92",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "New Zealand"
+    },
+    "SA Asnodkar": {
+        "Player_Name": "SA Asnodkar",
+        "DOB": "29-Mar-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "SA Yadav": {
+        "Player_Name": "SA Yadav",
+        "DOB": "14-Sep-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Sachin Baby": {
+        "Player_Name": "Sachin Baby",
+        "DOB": "18-Dec-88",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Salman Butt": {
+        "Player_Name": "Salman Butt",
+        "DOB": "7-Oct-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Pakistan"
+    },
+    "Sandeep Sharma": {
+        "Player_Name": "Sandeep Sharma",
+        "DOB": "18-May-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "SB Bangar": {
+        "Player_Name": "SB Bangar",
+        "DOB": "11-Oct-72",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "SB Jakati": {
+        "Player_Name": "SB Jakati",
+        "DOB": "27-Nov-80",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "SB Joshi": {
+        "Player_Name": "SB Joshi",
+        "DOB": "6-Jun-70",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "SB Styris": {
+        "Player_Name": "SB Styris",
+        "DOB": "10-Jul-75",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "New Zealand"
+    },
+    "SB Wagh": {
+        "Player_Name": "SB Wagh",
+        "DOB": "9-Oct-88",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium-fast",
+        "Country": "India"
+    },
+    "SC Ganguly": {
+        "Player_Name": "SC Ganguly",
+        "DOB": "8-Jul-72",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "SD Chitnis": {
+        "Player_Name": "SD Chitnis",
+        "DOB": "6-May-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "SD Lad": {
+        "Player_Name": "SD Lad",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "SE Bond": {
+        "Player_Name": "SE Bond",
+        "DOB": "7-Jun-75",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "New Zealand"
+    },
+    "SE Marsh": {
+        "Player_Name": "SE Marsh",
+        "DOB": "9-Jul-83",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Australia"
+    },
+    "Shahid Afridi": {
+        "Player_Name": "Shahid Afridi",
+        "DOB": "1-Mar-80",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "Pakistan"
+    },
+    "Shakib Al Hasan": {
+        "Player_Name": "Shakib Al Hasan",
+        "DOB": "24-Mar-87",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Bangladesh"
+    },
+    "Shivam Sharma": {
+        "Player_Name": "Shivam Sharma",
+        "DOB": "9-Sep-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Shoaib Ahmed": {
+        "Player_Name": "Shoaib Ahmed",
+        "DOB": "17-Aug-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Pakistan"
+    },
+    "Shoaib Akhtar": {
+        "Player_Name": "Shoaib Akhtar",
+        "DOB": "13-Aug-75",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Pakistan"
+    },
+    "Shoaib Malik": {
+        "Player_Name": "Shoaib Malik",
+        "DOB": "1-Feb-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Pakistan"
+    },
+    "SJ Srivastava": {
+        "Player_Name": "SJ Srivastava",
+        "DOB": "22-Sep-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "India"
+    },
+    "SK Raina": {
+        "Player_Name": "SK Raina",
+        "DOB": "27-Nov-86",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "SK Trivedi": {
+        "Player_Name": "SK Trivedi",
+        "DOB": "4-Sep-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "SK Warne": {
+        "Player_Name": "SK Warne",
+        "DOB": "13-Sep-69",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "Australia"
+    },
+    "SL Malinga": {
+        "Player_Name": "SL Malinga",
+        "DOB": "28-Aug-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Sri Lanka"
+    },
+    "SM Boland": {
+        "Player_Name": "SM Boland",
+        "DOB": "11-Apr-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "SM Harwood": {
+        "Player_Name": "SM Harwood",
+        "DOB": "1-Mar-74",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "SM Katich": {
+        "Player_Name": "SM Katich",
+        "DOB": "21-Aug-75",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm chinaman",
+        "Country": "Australia"
+    },
+    "SM Pollock": {
+        "Player_Name": "SM Pollock",
+        "DOB": "16-Jul-73",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "SMSM Senanayake": {
+        "Player_Name": "SMSM Senanayake",
+        "DOB": "9-Feb-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Sri Lanka"
+    },
+    "SN Khan": {
+        "Player_Name": "SN Khan",
+        "DOB": "27-Oct-97",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": "India"
+    },
+    "SN Thakur": {
+        "Player_Name": "SN Thakur",
+        "DOB": "16-Oct-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "Sohail Tanvir": {
+        "Player_Name": "Sohail Tanvir",
+        "DOB": "12-Dec-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium-fast",
+        "Country": "Pakistan"
+    },
+    "SP Fleming": {
+        "Player_Name": "SP Fleming",
+        "DOB": "1-Apr-73",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "New Zealand"
+    },
+    "SP Goswami": {
+        "Player_Name": "SP Goswami",
+        "DOB": "18-May-89",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "SP Jackson": {
+        "Player_Name": "SP Jackson",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "SP Narine": {
+        "Player_Name": "SP Narine",
+        "DOB": "26-May-88",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "West Indies"
+    },
+    "SPD Smith": {
+        "Player_Name": "SPD Smith",
+        "DOB": "2-Jun-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "SR Tendulkar": {
+        "Player_Name": "SR Tendulkar",
+        "DOB": "24-Apr-73",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "SR Watson": {
+        "Player_Name": "SR Watson",
+        "DOB": "17-Jun-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Australia"
+    },
+    "SS Agarwal": {
+        "Player_Name": "SS Agarwal",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": ""
+    },
+    "SS Iyer": {
+        "Player_Name": "SS Iyer",
+        "DOB": "6-Dec-94",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "SS Mundhe": {
+        "Player_Name": "SS Mundhe",
+        "DOB": "27-Oct-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "SS Sarkar": {
+        "Player_Name": "SS Sarkar",
+        "DOB": "15-Dec-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "SS Shaikh": {
+        "Player_Name": "SS Shaikh",
+        "DOB": "18-Jan-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "SS Tiwary": {
+        "Player_Name": "SS Tiwary",
+        "DOB": "30-Dec-89",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "ST Jayasuriya": {
+        "Player_Name": "ST Jayasuriya",
+        "DOB": "30-Jun-69",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "Sri Lanka"
+    },
+    "STR Binny": {
+        "Player_Name": "STR Binny",
+        "DOB": "3-Jun-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "Sunny Gupta": {
+        "Player_Name": "Sunny Gupta",
+        "DOB": "27-Sep-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Sunny Singh": {
+        "Player_Name": "Sunny Singh",
+        "DOB": "18-Dec-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "SV Samson": {
+        "Player_Name": "SV Samson",
+        "DOB": "11-Nov-94",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "SW Billings": {
+        "Player_Name": "SW Billings",
+        "DOB": "15-Jun-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "England"
+    },
+    "SW Tait": {
+        "Player_Name": "SW Tait",
+        "DOB": "22-Feb-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "Australia"
+    },
+    "Swapnil Singh": {
+        "Player_Name": "Swapnil Singh",
+        "DOB": "22-Jan-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "T Curran": {
+        "Player_Name": "T Curran",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": ""
+    },
+    "T Henderson": {
+        "Player_Name": "T Henderson",
+        "DOB": "1-Aug-74",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "South Africa"
+    },
+    "T Kohli": {
+        "Player_Name": "T Kohli",
+        "DOB": "17-Dec-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "T Mishra": {
+        "Player_Name": "T Mishra",
+        "DOB": "22-Dec-86",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "India"
+    },
+    "T Natarajan": {
+        "Player_Name": "T Natarajan",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": ""
+    },
+    "T Shamsi": {
+        "Player_Name": "T Shamsi",
+        "DOB": "18-Feb-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Slow left-arm chinaman",
+        "Country": "South Africa"
+    },
+    "T Taibu": {
+        "Player_Name": "T Taibu",
+        "DOB": "14-May-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Zimbabwea"
+    },
+    "T Thushara": {
+        "Player_Name": "T Thushara",
+        "DOB": "1-Mar-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "Sri Lanka"
+    },
+    "TA Boult": {
+        "Player_Name": "TA Boult",
+        "DOB": "22-Jul-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "New Zealand"
+    },
+    "TD Paine": {
+        "Player_Name": "TD Paine",
+        "DOB": "8-Dec-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "Tejas Baroka": {
+        "Player_Name": "Tejas Baroka",
+        "DOB": "",
+        "Batting_Hand": "",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": ""
+    },
+    "TG Southee": {
+        "Player_Name": "TG Southee",
+        "DOB": "11-Dec-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "New Zealand"
+    },
+    "TL Suman": {
+        "Player_Name": "TL Suman",
+        "DOB": "15-Dec-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "TM Dilshan": {
+        "Player_Name": "TM Dilshan",
+        "DOB": "14-Oct-76",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Sri Lanka"
+    },
+    "TM Head": {
+        "Player_Name": "TM Head",
+        "DOB": "29-Dec-93",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "Australia"
+    },
+    "TM Srivastava": {
+        "Player_Name": "TM Srivastava",
+        "DOB": "7-Nov-89",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "TP Sudhindra": {
+        "Player_Name": "TP Sudhindra",
+        "DOB": "24-Apr-84",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "India"
+    },
+    "TR Birt": {
+        "Player_Name": "TR Birt",
+        "DOB": "9-Dec-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "TS Mills": {
+        "Player_Name": "TS Mills",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "Left-arm fast",
+        "Country": ""
+    },
+    "U Kaul": {
+        "Player_Name": "U Kaul",
+        "DOB": "2-Dec-87",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "UA Birla": {
+        "Player_Name": "UA Birla",
+        "DOB": "17-Nov-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "UBT Chand": {
+        "Player_Name": "UBT Chand",
+        "DOB": "26-Mar-93",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Umar Gul": {
+        "Player_Name": "Umar Gul",
+        "DOB": "14-Apr-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "Pakistan"
+    },
+    "UT Khawaja": {
+        "Player_Name": "UT Khawaja",
+        "DOB": "18-Dec-86",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Australia"
+    },
+    "UT Yadav": {
+        "Player_Name": "UT Yadav",
+        "DOB": "25-Oct-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast-medium",
+        "Country": "India"
+    },
+    "V Chakravarthy": {
+        "Player_Name": "V Chakravarthy",
+        "DOB": "",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak",
+        "Country": ""
+    },
+    "V Kohli": {
+        "Player_Name": "V Kohli",
+        "DOB": "5-Nov-88",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "V Pratap Singh": {
+        "Player_Name": "V Pratap Singh",
+        "DOB": "3-May-92",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "V Sehwag": {
+        "Player_Name": "V Sehwag",
+        "DOB": "20-Oct-78",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "V Shankar": {
+        "Player_Name": "V Shankar",
+        "DOB": "26-Jan-91",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "VH Zol": {
+        "Player_Name": "VH Zol",
+        "DOB": "23-Nov-94",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Vishnu Vinod": {
+        "Player_Name": "Vishnu Vinod",
+        "DOB": "",
+        "Batting_Hand": "Right_hand",
+        "Bowling_Skill": "",
+        "Country": ""
+    },
+    "VR Aaron": {
+        "Player_Name": "VR Aaron",
+        "DOB": "29-Oct-89",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm fast",
+        "Country": "India"
+    },
+    "VRV Singh": {
+        "Player_Name": "VRV Singh",
+        "DOB": "17-Sep-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "VS Malik": {
+        "Player_Name": "VS Malik",
+        "DOB": "9-May-83",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "VS Yeligati": {
+        "Player_Name": "VS Yeligati",
+        "DOB": "23-Apr-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "VVS Laxman": {
+        "Player_Name": "VVS Laxman",
+        "DOB": "1-Nov-74",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "VY Mahesh": {
+        "Player_Name": "VY Mahesh",
+        "DOB": "21-Dec-87",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium-fast",
+        "Country": "India"
+    },
+    "W Jaffer": {
+        "Player_Name": "W Jaffer",
+        "DOB": "16-Feb-78",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "WA Mota": {
+        "Player_Name": "WA Mota",
+        "DOB": "20-Sep-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "Washington Sundar": {
+        "Player_Name": "Washington Sundar",
+        "DOB": "",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": ""
+    },
+    "WD Parnell": {
+        "Player_Name": "WD Parnell",
+        "DOB": "30-Jul-89",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm medium-fast",
+        "Country": "South Africa"
+    },
+    "WP Saha": {
+        "Player_Name": "WP Saha",
+        "DOB": "24-Oct-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "WPUJC Vaas": {
+        "Player_Name": "WPUJC Vaas",
+        "DOB": "27-Jan-74",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "Sri Lanka"
+    },
+    "X Thalaivan Sargunam": {
+        "Player_Name": "X Thalaivan Sargunam",
+        "DOB": "15-May-85",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Y Gnaneswara Rao": {
+        "Player_Name": "Y Gnaneswara Rao",
+        "DOB": "25-Aug-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "Y Nagar": {
+        "Player_Name": "Y Nagar",
+        "DOB": "6-Jan-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Y Venugopal Rao": {
+        "Player_Name": "Y Venugopal Rao",
+        "DOB": "26-Feb-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "YA Abdulla": {
+        "Player_Name": "YA Abdulla",
+        "DOB": "17-Jan-83",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "India"
+    },
+    "Yashpal Singh": {
+        "Player_Name": "Yashpal Singh",
+        "DOB": "27-Nov-81",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "India"
+    },
+    "YK Pathan": {
+        "Player_Name": "YK Pathan",
+        "DOB": "17-Nov-82",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm offbreak",
+        "Country": "India"
+    },
+    "Younis Khan": {
+        "Player_Name": "Younis Khan",
+        "DOB": "29-Nov-77",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Right-arm medium",
+        "Country": "Pakistan"
+    },
+    "YS Chahal": {
+        "Player_Name": "YS Chahal",
+        "DOB": "23-Jul-90",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Legbreak googly",
+        "Country": "India"
+    },
+    "Yuvraj Singh": {
+        "Player_Name": "Yuvraj Singh",
+        "DOB": "12-Dec-81",
+        "Batting_Hand": "Left_Hand",
+        "Bowling_Skill": "Slow left-arm orthodox",
+        "Country": "India"
+    },
+    "YV Takawale": {
+        "Player_Name": "YV Takawale",
+        "DOB": "5-Nov-84",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "NULL",
+        "Country": "India"
+    },
+    "Z Khan": {
+        "Player_Name": "Z Khan",
+        "DOB": "7-Oct-78",
+        "Batting_Hand": "Right_Hand",
+        "Bowling_Skill": "Left-arm fast-medium",
+        "Country": "India"
+    }
+}

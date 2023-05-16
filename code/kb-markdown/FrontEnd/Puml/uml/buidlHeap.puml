@@ -1,0 +1,17 @@
+@startuml
+participant heapify as 0
+participant MoveDown  as 2
+participant MoveDefiner  as 4
+participant swapper  as 3
+
+group#lightgreen happy flow
+0->2:index=2, [a0,.., a5]
+2->4:parent,left, right
+2<-4:left
+2->3:left,parent
+2<--3:parent, left
+0<--2:[a0,..,a5,..,a2]
+end
+
+
+@enduml

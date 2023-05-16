@@ -1,0 +1,53 @@
+@startuml
+
+rectangle Delhi as 19 #pink
+
+card "North Kerela" as a{
+    rectangle Thrissur as 4
+    rectangle Guruvayur as 5
+    rectangle Wayanad as 6
+    rectangle Kozikode as 7
+    rectangle "Muzhappilangad" as 8
+    rectangle Kannur as 9
+    rectangle Kozikode as 7
+
+}
+card "Central Kerela" as b{
+    rectangle Kochi as 1
+    rectangle Munnar as 10
+    rectangle Thekkady as 11
+    rectangle "TN: Madhurai" as 12 #skyblue
+
+}
+card "South Kerela" as c {
+    rectangle "TN: Rameshwaram" as 13 #skyblue
+    rectangle "TN: Dhanushkodi" as 14 #skyblue
+    rectangle Trivendrum as 15
+    rectangle PoverIsland as 16
+    rectangle Kovallam as 17
+    rectangle "TN: Kanyakumari" as 18 #skyblue
+
+}
+19-->1
+1-->4
+4-->5
+5-->7
+7-->8
+8-->9
+7-->6
+6-->7
+9-->7
+7-->10
+10-->11
+11-->12
+12-->13
+13-->14
+14-->13
+13-->15
+15-->16
+16-->17
+17-->15
+15-->18
+18-->19
+
+@enduml

@@ -1,0 +1,38 @@
+@startuml
+start
+:MRP of 1 kg rice = Rs 50;
+
+
+if (Person brings\nthere own container?) then (yes)
+    :give loyality points\nto buyer;
+    #yellow:total cost = Rs 50;
+    stop
+
+else (no)
+    :packaging done by seller;
+    fork
+        :packaging cost = Rs 20;
+        #yellow:total cost = Rs 70;
+    fork again
+        :security cost = Rs 500;
+        ' :total cost = Rs 550;
+        #yellow:total cost = Rs 550;
+
+        if (Packaging given back\nnext time buyer visit shop\nby showing the bill) then (yes)
+            :refund the security;
+            :give loyality points\nto both buyer & seller;
+
+            #yellow:total cost = Rs 50;
+
+        else(no)
+            #yellow:total cost = Rs 550;
+
+        endif
+
+    end fork
+    stop
+
+endif
+@enduml
+
+

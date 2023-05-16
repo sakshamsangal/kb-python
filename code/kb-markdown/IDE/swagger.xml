@@ -1,0 +1,28 @@
+<templateSet group="swagger">
+  <template name="openapi swagger" value="implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.2'" description="openapi swagger" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="swagger" value="implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.4'" description="swagger" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+    </context>
+  </template>
+  <template name="redoc" value="&lt;!DOCTYPE html&gt;&#10;&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;title&gt;Redoc&lt;/title&gt;&#10;    &lt;!-- needed for adaptive design --&gt;&#10;    &lt;meta charset=&quot;utf-8&quot;/&gt;&#10;    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&#10;    &lt;link href=&quot;https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:300,400,700&quot; rel=&quot;stylesheet&quot;&gt;&#10;&#10;    &lt;!--&#10;    Redoc doesn't change outer page styles&#10;    --&gt;&#10;    &lt;style&gt;&#10;      body {&#10;        margin: 0;&#10;        padding: 0;&#10;      }&#10;    &lt;/style&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;redoc spec-url='http://localhost:8080/v3/api-docs'&gt;&lt;/redoc&gt;&#10;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/redoc@latest/bundles/redoc.standalone.js&quot;&gt; &lt;/script&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="redoc" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

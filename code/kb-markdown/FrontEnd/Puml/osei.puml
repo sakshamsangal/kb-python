@@ -1,0 +1,10 @@
+@startmindmap
+* OSEI
+**_ create PUF xml
+***_ Data validation
+***_ xsd validation
+***_ sch validation
+***_ consume api POST
+***_ 200 file id
+
+@endmindmap

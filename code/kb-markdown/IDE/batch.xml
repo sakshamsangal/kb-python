@@ -1,0 +1,63 @@
+<templateSet group="batch">
+  <template name="algo-batch" value="- algo-batch&#10;- dependency-batch&#10;- entity-customer&#10;- repo-customer&#10;- controller-job&#10;- processor-customer&#10;- config&#10;    - class-batch&#10;    - yml&#10;      - db&#10;      - show sql&#10;      - ddl auto update&#10;      - batch&#10;- customer.csv" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+    </context>
+  </template>
+  <template name="gradle-batch" value="implementation 'org.springframework.boot:spring-boot-starter-batch'&#10;testImplementation 'org.springframework.batch:spring-batch-test'" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="yml-batch" value="spring:&#10;  batch:&#10;    jdbc:&#10;      initialize-schema: ALWAYS&#10;    # disabled job run at startup&#10;    job:&#10;      enabled: false" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+    </context>
+  </template>
+  <template name="entity-customer" value="@jakarta.persistence.Entity&#10;@jakarta.persistence.Table(name = &quot;CUSTOMERS_INFO&quot;)&#10;@lombok.Data&#10;@lombok.AllArgsConstructor&#10;@lombok.NoArgsConstructor&#10;public class Customer {&#10;&#10;    @jakarta.persistence.Id&#10;    @jakarta.persistence.Column(name = &quot;CUSTOMER_ID&quot;)&#10;    private int id;&#10;&#10;    @jakarta.persistence.Column(name = &quot;FIRST_NAME&quot;)&#10;    private java.lang.String firstName;&#10;&#10;    @jakarta.persistence.Column(name = &quot;LAST_NAME&quot;)&#10;    private java.lang.String lastName;&#10;&#10;    @jakarta.persistence.Column(name = &quot;EMAIL&quot;)&#10;    private java.lang.String email;&#10;&#10;    @jakarta.persistence.Column(name = &quot;GENDER&quot;)&#10;    private java.lang.String gender;&#10;&#10;    @jakarta.persistence.Column(name = &quot;CONTACT&quot;)&#10;    private java.lang.String contactNo;&#10;&#10;    @jakarta.persistence.Column(name = &quot;COUNTRY&quot;)&#10;    private java.lang.String country;&#10;&#10;    @jakarta.persistence.Column(name = &quot;DOB&quot;)&#10;    private java.lang.String dob;&#10;&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="processor-customer" value="public class CustomerProcessor implements org.springframework.batch.item.ItemProcessor&lt;com.example.batch.Customer, com.example.batch.Customer&gt; {&#10;&#10;    @java.lang.Override&#10;    public com.example.batch.Customer process(com.example.batch.Customer customer) throws java.lang.Exception {&#10;        if (customer.getCountry().equals(&quot;United States&quot;)) {&#10;            return customer;&#10;        } else {&#10;            return null;&#10;        }&#10;    }&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="repo-customer" value="public interface CustomerRepository extends org.springframework.data.jpa.repository.JpaRepository&lt;com.example.batch.Customer, java.lang.Integer&gt; {&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="controller-job" value="@org.springframework.web.bind.annotation.RestController&#10;@org.springframework.web.bind.annotation.RequestMapping(&quot;/jobs&quot;)&#10;public class JobController {&#10;&#10;    @org.springframework.beans.factory.annotation.Autowired&#10;    private org.springframework.batch.core.launch.JobLauncher jobLauncher;&#10;    @org.springframework.beans.factory.annotation.Autowired&#10;    private org.springframework.batch.core.Job job;&#10;&#10;    @org.springframework.web.bind.annotation.PostMapping(&quot;/importCustomers&quot;)&#10;    public void importCsvToDBJob() {&#10;        org.springframework.batch.core.JobParameters jobParameters = new org.springframework.batch.core.JobParametersBuilder()&#10;                .addLong(&quot;startAt&quot;, java.lang.System.currentTimeMillis()).toJobParameters();&#10;        try {&#10;            jobLauncher.run(job, jobParameters);&#10;        } catch (org.springframework.batch.core.repository.JobExecutionAlreadyRunningException | org.springframework.batch.core.repository.JobRestartException | org.springframework.batch.core.repository.JobInstanceAlreadyCompleteException |&#10;                 org.springframework.batch.core.JobParametersInvalidException e) {&#10;            e.printStackTrace();&#10;        }&#10;    }&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="config-class-batch" value="@org.springframework.context.annotation.Configuration&#10;@org.springframework.batch.core.configuration.annotation.EnableBatchProcessing&#10;@lombok.RequiredArgsConstructor&#10;public class SpringBatchConfig {&#10;&#10;&#10;    private final com.example.batch.CustomerRepository customerRepository;&#10;    private final org.springframework.batch.core.repository.JobRepository jobRepository;&#10;    private final org.springframework.transaction.PlatformTransactionManager transactionManager;&#10;&#10;&#10;    @org.springframework.context.annotation.Bean&#10;    public org.springframework.batch.item.file.FlatFileItemReader&lt;com.example.batch.Customer&gt; reader() {&#10;        org.springframework.batch.item.file.FlatFileItemReader&lt;com.example.batch.Customer&gt; itemReader = new org.springframework.batch.item.file.FlatFileItemReader&lt;&gt;();&#10;        itemReader.setResource(new org.springframework.core.io.FileSystemResource(&quot;src/main/resources/customers.csv&quot;));&#10;        itemReader.setName(&quot;csvReader&quot;);&#10;        itemReader.setLinesToSkip(1);&#10;        itemReader.setLineMapper(lineMapper());&#10;        return itemReader;&#10;    }&#10;&#10;    private org.springframework.batch.item.file.LineMapper&lt;com.example.batch.Customer&gt; lineMapper() {&#10;        org.springframework.batch.item.file.mapping.DefaultLineMapper&lt;com.example.batch.Customer&gt; lineMapper = new org.springframework.batch.item.file.mapping.DefaultLineMapper&lt;&gt;();&#10;&#10;        org.springframework.batch.item.file.transform.DelimitedLineTokenizer lineTokenizer = new org.springframework.batch.item.file.transform.DelimitedLineTokenizer();&#10;        lineTokenizer.setDelimiter(&quot;,&quot;);&#10;        lineTokenizer.setStrict(false);&#10;        lineTokenizer.setNames(&quot;id&quot;, &quot;firstName&quot;, &quot;lastName&quot;, &quot;email&quot;, &quot;gender&quot;, &quot;contactNo&quot;, &quot;country&quot;, &quot;dob&quot;);&#10;&#10;        org.springframework.batch.item.file.mapping.BeanWrapperFieldSetMapper&lt;com.example.batch.Customer&gt; fieldSetMapper = new org.springframework.batch.item.file.mapping.BeanWrapperFieldSetMapper&lt;&gt;();&#10;        fieldSetMapper.setTargetType(com.example.batch.Customer.class);&#10;&#10;        lineMapper.setLineTokenizer(lineTokenizer);&#10;        lineMapper.setFieldSetMapper(fieldSetMapper);&#10;        return lineMapper;&#10;&#10;    }&#10;&#10;    @org.springframework.context.annotation.Bean&#10;    public com.example.batch.CustomerProcessor processor() {&#10;        return new com.example.batch.CustomerProcessor();&#10;    }&#10;&#10;    @org.springframework.context.annotation.Bean&#10;    public org.springframework.batch.item.data.RepositoryItemWriter&lt;com.example.batch.Customer&gt; writer() {&#10;        org.springframework.batch.item.data.RepositoryItemWriter&lt;com.example.batch.Customer&gt; writer = new org.springframework.batch.item.data.RepositoryItemWriter&lt;&gt;();&#10;        writer.setRepository(customerRepository);&#10;        writer.setMethodName(&quot;save&quot;);&#10;        return writer;&#10;    }&#10;&#10;    @org.springframework.context.annotation.Bean&#10;    public org.springframework.batch.core.Step step1() {&#10;        return new org.springframework.batch.core.step.builder.StepBuilder(&quot;csv-step&quot;, jobRepository).&lt;com.example.batch.Customer, com.example.batch.Customer&gt;chunk(10, transactionManager)&#10;                .reader(reader())&#10;                .processor(processor())&#10;                .writer(writer())&#10;                .taskExecutor(taskExecutor())&#10;                .build();&#10;    }&#10;&#10;    @org.springframework.context.annotation.Bean&#10;    public org.springframework.batch.core.Job runJob() {&#10;        return new org.springframework.batch.core.job.builder.JobBuilder(&quot;importCustomers&quot;, jobRepository)&#10;                .flow(step1()).end().build();&#10;&#10;    }&#10;&#10;    @org.springframework.context.annotation.Bean&#10;    public org.springframework.core.task.TaskExecutor taskExecutor() {&#10;        org.springframework.core.task.SimpleAsyncTaskExecutor asyncTaskExecutor = new org.springframework.core.task.SimpleAsyncTaskExecutor();&#10;        asyncTaskExecutor.setConcurrencyLimit(10);&#10;        return asyncTaskExecutor;&#10;    }&#10;&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

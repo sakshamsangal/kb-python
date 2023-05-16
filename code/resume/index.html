@@ -1,0 +1,289 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <style>
+        * {
+            font-family: Roboto;
+        }
+
+        .card-body, .card-header {
+            padding: 4px;
+        }
+
+        .list-unstyled {
+            padding: 0;
+            margin: 0;
+        }
+
+        .card {
+            margin-bottom: 8px
+        }
+
+        .list-group-item {
+            padding: 0 0 0 4px;
+        }
+
+        body {
+            font-size: 14px
+        }</style>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>function printDiv(n) {
+        var e = document.getElementById(n).innerHTML, d = document.body.innerHTML;
+        document.body.innerHTML = e, window.print(), document.body.innerHTML = d
+    }</script>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid"><a class="navbar-brand" href="#">Resume</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span
+                class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link active" onclick='printDiv("printableArea")' href="#">Print</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container mt-1" id="printableArea">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="row">
+                <div class="col-6 mb-2">
+                    <div class="float-start"><h6>Saksham Sangal</h6>
+                        <h6>
+                            <strong>
+                                Python/Java developer | 3 year experience
+                            </strong>
+                        </h6>
+                        Linkedin: <a target="_blank" href="https://www.linkedin.com/in/sakshamsangal111">www.linkedin.com/in/sakshamsangal111</a>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="float-end">Mobile no. 8218312880 <br>Email: sakshamsangal111@gmail.com <br> DOB:
+                        27/Nov/1996
+                    </div>
+                </div>
+                <div class="col-8">
+                    <div class="card rounded-0"><h6 class="card-header">Profile summary</h6>
+                        <div class="card-body">
+                            Analyst at Deloitte USI for 1+ yr. Former java developer and project engineer at
+                            Decimal Technology (6+ months) and Wipro (1+ year) respectively. Major interest in
+                            competitive programming in java, data structure algorithm, backend development. Worked on
+                            many major and minor projects for competitions, trainings, and for self-learning.
+                        </div>
+                    </div>
+
+                    <div class="card rounded-0"><h6 class="card-header">Work experience</h6>
+                        <div class="card-body">
+                            <table class="table table-sm table-bordered" style="font-size: 13px">
+                                <thead>
+                                <tr>
+                                    <th>
+                                        Company
+                                    </th>
+                                    <th>Designation
+                                    </th>
+                                    <th>
+                                        Location
+                                    </th>
+                                    <th style="width: 18%">
+                                        Duration
+                                    </th>
+                                    <th>
+                                        Time period
+                                    </th>
+                                </tr>
+                                </thead>
+                                <tbody>
+
+                                <tr>
+                                    <td>
+                                        Deloitte USI
+                                    </td>
+                                    <td>
+                                        Analyst
+                                    </td>
+                                    <td>
+                                        Gurgaon
+                                    </td>
+                                    <td>
+                                        1+ years
+                                    </td>
+                                    <td>
+                                        July 2021-Present
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Decimal Technology (Fintech company)
+                                    </td>
+                                    <td>
+                                        Associate engineer L1
+                                    </td>
+                                    <td>
+                                        Gurgaon
+                                    </td>
+                                    <td>
+                                        6+ months
+                                    </td>
+                                    <td>
+                                        Nov 2020-May 2021
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Wipro Ltd
+                                    </td>
+                                    <td>
+                                        Project engineer
+                                    </td>
+                                    <td>
+                                        Greater Noida
+                                    </td>
+                                    <td>
+                                        1+ year
+                                    </td>
+                                    <td>
+                                        July 2018- August 2019
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="card rounded-0"><h6 class="card-header">Company projects</h6>
+                        <div class="card-body">
+                            <div class="card rounded-0">
+                                <div class="card-header">Data modelling tool
+                                    <div class="float-end">Deloitte USI</div>
+                                </div>
+                                <div class="card-body">
+                                    <ul class="list-unstyled">
+                                        <li><u>Tech stack:</u><strong> Python (lxml, pandas), SQLite,
+                                            FastAPI, MS Excel</strong>
+                                        </li>
+                                        <li><u>Description:</u> Developed mapping sheet &
+                                            transformation rule for content migration. Performed XML analysis and model
+                                            making of legacy XML. Automated transformation rule doc file generation.
+                                            Created various scripts e.g. split large XML into chunks of XML.
+                                        </li>
+                                        <li><u>Achievement:</u> Reduced the manual
+                                            analysis by 70%
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card rounded-0">
+                                <div class="card-header">Bandhan bank neo+ project
+                                    <div class="float-end">Decimal Tech.</div>
+                                </div>
+                                <div class="card-body">
+                                    <ul class="list-unstyled">
+                                        <li>
+                                            <u>Tech stack:</u> <strong>SpringBoot, MYSQL</strong>
+                                        </li>
+                                        <li><u>Description:</u> Consumed REST API given by FIS, NSDL, bank and other 3rd
+                                            party, saved the payload in DB.
+                                        </li>
+                                        <li><u>Achievement:</u> Increase the savings
+                                            account lead by 50%.
+                                        </li>
+
+
+                                    </ul>
+                                </div>
+                            </div>
+<!--                            <div class="card rounded-0">-->
+<!--                                <div class="card-header">MChoice project-->
+<!--                                    <div class="float-end">Decimal Tech.</div>-->
+<!--                                </div>-->
+<!--                                <div class="card-body">-->
+<!--                                    <ul class="list-unstyled">-->
+<!--                                        <li>-->
+<!--                                            <u>Tech stack:</u> <strong>SpringBoot, MYSQL</strong>-->
+<!--                                        </li>-->
+<!--                                        <li><u>Description:</u> Integrated tickets from servicenow portal & internal-->
+<!--                                            ticket mgt. system. Created REST API to add, update and remove ticket.-->
+<!--                                        <li><u>Achievement:</u> Resolution time of ticket got reduced by 30% as all-->
+<!--                                            ticket got consolidated in single platform-->
+<!--                                        </li>-->
+<!--                                    </ul>-->
+<!--                                </div>-->
+<!--                            </div>-->
+                            <div class="card rounded-0">
+                                <div class="card-header">PMO tool
+                                    <div class="float-end">Wipro</div>
+                                </div>
+                                <div class="card-body">
+                                    <ul class="list-unstyled">
+                                        <li>
+                                            <u>Tech stack:</u> <strong>SpringBoot, MYSQL</strong>
+                                        </li>
+                                        <li><u>Description:</u> In this project, managers can see who all are new hires in project, status of KT, BGV etc. Created REST API in Spring boot and also involved in resolving ticket(operations) by firing SQL queries.
+                                        <li><u>Achievement:</u> Improved project management.
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="card rounded-0"><h6 class="card-header">Skills</h6>
+                        <div class="card-body">
+                            <ul class="list-group rounded-0">
+
+                                <li class="list-group-item"><u>Primary: </u><strong> Python, Java</strong></li>
+                                <li class="list-group-item"><u>Secondary: </u>Python library (pandas, numpy,
+                                    lxml etc.), FastApi, Flask, SQL, Spring framework, HTML, CSS, JS, DSA
+                                </li>
+                                <li class="list-group-item"><u>Tools: </u>Git, Postman, PyCharm, IntelliJ, Azure
+                                    DevOps, Jira, Excel
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card rounded-0"><h6 class="card-header">Awards</h6>
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li><i class="bi bi-award"></i> <em>3rd rank in product engineering coding challenge in
+                                    Deloitte,
+                                    2022</em></li>
+                                <li><i class="bi bi-award"></i> <em>Spot award for excellence in work in Deloitte,
+                                    2022</em></li>
+                                <li><i class="bi bi-award"></i> <em>KPIT innovation award in Smart India Hackathon
+                                    during college, 2018</em></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card rounded-0"><h6 class="card-header">Education</h6>
+                        <div class="card-body">
+                            <div>B.Tech | CSE
+                                <div class="float-end">2014-2018</div>
+                            </div>
+                            <div class="text-secondary">AKTU, Lucknow | Aggregate: 75%</div>
+                            <div>Intermediate | PCM
+                                <div class="float-end">2013-2014</div>
+                            </div>
+                            <div class="text-secondary">CBSE | Aggregate: 88.8%</div>
+                            <div>Matriculation
+                                <div class="float-end">2011-2012</div>
+                            </div>
+                            <div class="text-secondary">CBSE | CGPA: 9.2 CGPA</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>
