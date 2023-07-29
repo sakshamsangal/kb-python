@@ -1,39 +1,10 @@
 {
-    "numbersMock": {
-        "type": "object",
-        "required": [
-            "smallInt",
-            "stringsMock"
-        ],
-        "properties": {
-            "smallInt": {
-                "type": "string",
-                "example": -20
-            },
-            "stringsMock": {
-                "type": "object",
-                "required": [
-                    "stringTest"
-                ],
-                "properties": {
-                    "stringTest": {
-                        "type": "string",
-                        "example": "Hello World"
-                    }
-                }
-            },
-            "b1": {
-                "type": "object",
-                "required": [
-                    "b1c1"
-                ],
-                "properties": {
-                    "b1c1": {
-                        "type": "string",
-                        "example": "Hello World"
-                    }
-                }
-            }
+    "name": "sample",
+    "sku": "sample",
+    "price": "sample",
+    "shipTo": [
+        {
+            "str": "sample"
         }
-    }
+    ]
 }

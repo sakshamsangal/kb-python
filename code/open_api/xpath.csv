@@ -1,0 +1,11 @@
+xpath,dt,ex
+/name,str,John Smith
+/sku,str,20223
+/price,str,23.95
+/shipTo,listOfObj,
+/shipTo/name,str,Jane Smith
+/shipTo/address,str,123 Maple Street
+/shipTo,listOfObj,
+/shipTo/name,str,Jane Smith
+/shipTo/address,str,123 Maple Street
+/msg,listOfStr,bad request

@@ -41,13 +41,15 @@ if __name__ == '__main__':
     njson = {
         "numbersMock": {
             "m__smallInt": -20,
-            "m__stringsMock": {
+            "m__stringsMock": [{
                 "m__stringTest": "Hello World"
-            },
+            }],
             "b1": {
                 "m__b1c1": "Hello World"
             }
         }
     }
     oa2 = njson_to_oa2(njson)
+
+
 
