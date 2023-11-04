@@ -1,0 +1,563 @@
+{
+    "Invoice": {
+        "CustomizationID": "urn:pagero.com:puf:billing:2.0",
+        "ProfileID": "urn:pagero.com:puf:billing:1.0",
+        "ID": 123456,
+        "IssueDate": "2018-01-01",
+        "IssueTime": "21:32:52",
+        "DueDate": "2018-12-01",
+        "InvoiceTypeCode": 380,
+        "TaxPointDate": "2017-01-01",
+        "DocumentCurrencyCode": "EUR",
+        "TaxCurrencyCode": "USD",
+        "AccountingCost": "Accounting Cost",
+        "BuyerReference": "Buyer Reference",
+        "InvoicePeriod": {
+            "StartDate": "2018-01-01",
+            "EndDate": "2018-12-31",
+            "Description": "Period description"
+        },
+        "OrderReference": {
+            "UBLExtensions": {
+                "UBLExtension": {
+                    "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:OrderReferenceExtension",
+                    "ExtensionContent": {
+                        "PageroExtension": {
+                            "OrderReferenceExtension": {
+                                "SalesOrderIssueDate": "2019-01-01"
+                            }
+                        }
+                    }
+                }
+            },
+            "ID": "PO Number",
+            "SalesOrderID": "Sales Order number",
+            "IssueDate": "2018-12-01"
+        },
+        "DespatchDocumentReference": {
+            "ID": "Despatch Document ID",
+            "IssueDate": "2018-12-01"
+        },
+        "ReceiptDocumentReference": {
+            "ID": "Receipt ID"
+        },
+        "OriginatorDocumentReference": {
+            "ID": "Tender Reference ID",
+            "IssueDate": "2018-01-01"
+        },
+        "ContractDocumentReference": {
+            "ID": "Contract Reference ID",
+            "IssueDate": "2018-12-01"
+        },
+        "ProjectReference": {
+            "ID": "Project Reference ID"
+        },
+        "AdditionalDocumentReference": {
+            "ID": 123456,
+            "DocumentDescription": "Timesheet",
+            "Attachment": {
+                "EmbeddedDocumentBinaryObject": "as="
+            }
+        },
+        "AccountingSupplierParty": {
+            "CustomerAssignedAccountID": "SupplierId",
+            "Party": {
+                "UBLExtensions": {
+                    "UBLExtension": {
+                        "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:PartyExtension",
+                        "ExtensionContent": {
+                            "PageroExtension": {
+                                "PartyExtension": {
+                                    "RegistrationData": [
+                                        {
+                                            "ID": "NumeroREA",
+                                            "IDType": "IT:NumeroREA"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                "EndpointID": 7300010000001,
+                "PartyIdentification": {
+                    "ID": 7300010000001
+                },
+                "PartyName": {
+                    "Name": "Supplier Name"
+                },
+                "PostalAddress": {
+                    "Postbox": 12345,
+                    "StreetName": "Test Street 1",
+                    "BuildingNumber": 10,
+                    "Department": "Department",
+                    "PlotIdentification": 0,
+                    "CitySubdivisionName": "City Subdivision Name",
+                    "CityName": "Town",
+                    "PostalZone": 0,
+                    "CountrySubentity": "Province",
+                    "Country": {
+                        "IdentificationCode": "SE",
+                        "Name": "Sweden"
+                    }
+                },
+                "PartyTaxScheme": {
+                    "CompanyID": "SE123456123401",
+                    "TaxScheme": {
+                        "ID": "VAT"
+                    }
+                },
+                "PartyLegalEntity": {
+                    "RegistrationName": "Supplier Registration Name",
+                    "CompanyID": 1234561234,
+                    "RegistrationAddress": {
+                        "CityName": "Supplier Hometown",
+                        "Country": {
+                            "IdentificationCode": "SE"
+                        }
+                    }
+                },
+                "Contact": {
+                    "Name": "Supplier Contact Name",
+                    "Telephone": 11111111,
+                    "ElectronicMail": "supplier@contact.com"
+                }
+            },
+            "AccountingContact": {
+                "Telephone": "Supplier tel",
+                "Telefax": "Supplier Fax",
+                "ElectronicMail": "Supplier@mainContact.com"
+            }
+        },
+        "AccountingCustomerParty": {
+            "SupplierAssignedAccountID": "Customer Number",
+            "Party": {
+                "UBLExtensions": {
+                    "UBLExtension": {
+                        "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:PartyExtension",
+                        "ExtensionContent": {
+                            "PageroExtension": {
+                                "PartyExtension": {
+                                    "ADAID": [
+                                        {
+                                            "ID": 1234567890,
+                                            "Name": "Name of Unit",
+                                            "IDType": "ES:OficinaContable"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                "EndpointID": 7300010000001,
+                "PartyIdentification": {
+                    "ID": 7300010000001
+                },
+                "PartyName": {
+                    "Name": "Customer Name"
+                },
+                "PostalAddress": {
+                    "Postbox": 54321,
+                    "StreetName": "Customer Street",
+                    "BuildingNumber": 11,
+                    "Department": "Customer Department",
+                    "PlotIdentification": 0,
+                    "CitySubdivisionName": "Customer City Subdivision Name",
+                    "CityName": "Customer City",
+                    "PostalZone": 0,
+                    "CountrySubentity": "Customer Province",
+                    "Country": {
+                        "IdentificationCode": "SE",
+                        "Name": "Sweden"
+                    }
+                },
+                "PartyTaxScheme": {
+                    "CompanyID": "SE987654321001",
+                    "TaxScheme": {
+                        "ID": "VAT"
+                    }
+                },
+                "PartyLegalEntity": {
+                    "RegistrationName": "Customer Registration Name",
+                    "CompanyID": "987654-4321"
+                },
+                "Contact": {
+                    "Name": "Customer Contact Name",
+                    "Telephone": 465544466,
+                    "ElectronicMail": "customer@contact.com"
+                }
+            },
+            "AccountingContact": {
+                "Telephone": "Customer tel",
+                "Telefax": "Customer Fax",
+                "ElectronicMail": "Customer@mainContact.com"
+            }
+        },
+        "BuyerCustomerParty": {
+            "SupplierAssignedAccountID": "SupplierAssigned",
+            "Party": {
+                "PartyIdentification": {
+                    "ID": 7300010000001
+                },
+                "PartyName": {
+                    "Name": "Buyer Name"
+                },
+                "PostalAddress": {
+                    "Postbox": 112233,
+                    "StreetName": "Buyer Street",
+                    "BuildingNumber": 12,
+                    "Department": "Buyer Department",
+                    "PlotIdentification": 0,
+                    "CitySubdivisionName": "Buyer City Subdivision Name",
+                    "CityName": "Buyer City",
+                    "PostalZone": 0,
+                    "CountrySubentity": "Buyer Province",
+                    "Country": {
+                        "IdentificationCode": "SE",
+                        "Name": "Sweden"
+                    }
+                },
+                "PartyTaxScheme": {
+                    "CompanyID": "SE111111222201",
+                    "TaxScheme": {
+                        "ID": "VAT"
+                    }
+                },
+                "PartyLegalEntity": {
+                    "RegistrationName": "Buyer Registration Name",
+                    "CompanyID": "111111-2222"
+                },
+                "Contact": {
+                    "Name": "Buyer Contact Person",
+                    "Telephone": 46113334456,
+                    "ElectronicMail": "buyer@contact.com"
+                }
+            },
+            "AccountingContact": {
+                "Telephone": "Buyer tel",
+                "Telefax": "Buyer Fax",
+                "ElectronicMail": "buyer@mainContact.com"
+            }
+        },
+        "Delivery": {
+            "UBLExtensions": {
+                "UBLExtension": {
+                    "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:DeliveryExtension",
+                    "ExtensionContent": {
+                        "PageroExtension": {
+                            "DeliveryExtension": {
+                                "DeliveryMethod": {
+                                    "Note": "Text describing the delivery method",
+                                    "Code": "Deliver Method Code"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "ActualDeliveryDate": "2019-01-01",
+            "DeliveryLocation": {
+                "ID": 7300010000001,
+                "Description": "Text describing the delivery location",
+                "Address": {
+                    "Postbox": 121212,
+                    "StreetName": "Delivery Street",
+                    "Department": "Delivery Department",
+                    "PlotIdentification": 0,
+                    "CitySubdivisionName": "Delivery City Subdivision Name",
+                    "CityName": "Delivery City",
+                    "PostalZone": 55555,
+                    "CountrySubentity": "Delivery Province",
+                    "Country": {
+                        "IdentificationCode": "SE",
+                        "Name": "Sweden"
+                    }
+                }
+            },
+            "DeliveryParty": {
+                "UBLExtensions": {
+                    "UBLExtension": {
+                        "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:PartyExtension",
+                        "ExtensionContent": {
+                            "PageroExtension": {
+                                "PartyExtension": {
+                                    "ADAID": {
+                                        "ID": 1234567890,
+                                        "IDType": "GEN:UnitCode"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "PartyName": {
+                    "Name": "Delivery Name"
+                }
+            }
+        },
+        "DeliveryTerms": {
+            "SpecialTerms": "Description of the delivery terms",
+            "LossRiskResponsibilityCode": "Code to identify the responsibility for the loss\n            risk.",
+            "LossRisk": "A description of the responsibility for the loss risk."
+        },
+        "PaymentMeans": {
+            "PaymentMeansCode": 30,
+            "PaymentID": 123456,
+            "PayeeFinancialAccount": {
+                "ID": 12345678,
+                "Name": "AccountName",
+                "FinancialInstitutionBranch": {
+                    "ID": "SE:BANKGIRO"
+                }
+            }
+        },
+        "PaymentTerms": {
+            "UBLExtensions": {
+                "UBLExtension": {
+                    "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:PaymentTermsExtension",
+                    "ExtensionContent": {
+                        "PageroExtension": {
+                            "PaymentTermsExtension": {
+                                "Penalty": {
+                                    "Note": "Penalty text due to late payment"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Note": "30 days",
+            "PenaltySurchargePercent": 10
+        },
+        "AllowanceCharge": {
+            "ChargeIndicator": 0,
+            "AllowanceChargeReason": "Reason for allowance",
+            "Amount": 5,
+            "TaxCategory": {
+                "ID": "E",
+                "Percent": 0,
+                "TaxExemptionReasonCode": "vatex-eu-132-1b",
+                "TaxExemptionReason": "Tax exemption reason description",
+                "TaxScheme": {
+                    "ID": "VAT"
+                }
+            },
+            "TaxTotal": {
+                "TaxAmount": 0
+            }
+        },
+        "TaxExchangeRate": {
+            "SourceCurrencyCode": "EUR",
+            "TargetCurrencyCode": "USD",
+            "CalculationRate": 1.17,
+            "MathematicOperatorCode": "Multiply",
+            "Date": "2018-01-01"
+        },
+        "TaxTotal": [
+            {
+                "TaxAmount": 25,
+                "TaxSubtotal": [
+                    {
+                        "UBLExtensions": {
+                            "UBLExtension": {
+                                "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:TaxSubtotalExtension",
+                                "ExtensionContent": {
+                                    "PageroExtension": {
+                                        "TaxSubtotalExtension": {
+                                            "TaxChargeability": {
+                                                "TaxTypeCode": "I"
+                                            },
+                                            "TaxCurrencyTaxableAmount": 117,
+                                            "TaxCurrencyTaxAmount": 29.25
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "TaxableAmount": 100,
+                        "TaxAmount": 25,
+                        "TaxCategory": {
+                            "ID": "S",
+                            "Percent": 25,
+                            "TaxScheme": {
+                                "ID": "VAT"
+                            },
+                            "TaxExemptionReasonCode": "vatex-eu-132-1b",
+                            "TaxExemptionReason": "Tax exemption reason description"
+                        }
+                    }
+                ]
+            }
+        ],
+        "LegalMonetaryTotal": {
+            "UBLExtensions": {
+                "UBLExtension": {
+                    "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:LegalMonetaryTotalExtension",
+                    "ExtensionContent": {
+                        "PageroExtension": {
+                            "LegalMonetaryTotalExtension": {
+                                "TaxCurrencyTaxExclusiveAmount": 117,
+                                "TaxCurrencyTaxInclusiveAmount": 146.25,
+                                "TaxCurrencyPayableAmount": 134.55,
+                                "PaymentInKind": {
+                                    "Amount": 10,
+                                    "Note": "Text describing the payment in kind"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "LineExtensionAmount": 100,
+            "TaxExclusiveAmount": 95,
+            "TaxInclusiveAmount": 120,
+            "AllowanceTotalAmount": 5,
+            "PayableAmount": 110
+        },
+        "InvoiceLine": {
+            "UBLExtensions": {
+                "UBLExtension": {
+                    "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:LineExtension",
+                    "ExtensionContent": {
+                        "PageroExtension": {
+                            "LineExtension": {
+                                "LineExclAllowanceChargeAmount": 110,
+                                "OriginatorDocumentReference": {
+                                    "ID": "Tender Reference ID",
+                                    "IssueDate": "2018-01-01"
+                                },
+                                "ProjectReference": {
+                                    "ID": "Project Reference ID"
+                                },
+                                "ContractDocumentReference": {
+                                    "ID": "Contract Reference ID",
+                                    "IssueDate": "2018-01-01",
+                                    "BuyerContractID": "Buyer Contract ID",
+                                    "BuyerContractIssueDate": "2018-01-01"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "ID": 10000,
+            "InvoicedQuantity": 1,
+            "LineExtensionAmount": 100,
+            "OrderLineReference": {
+                "LineID": 1,
+                "SalesOrderLineID": 10,
+                "OrderReference": {
+                    "UBLExtensions": {
+                        "UBLExtension": {
+                            "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:LineExtension",
+                            "ExtensionContent": {
+                                "PageroExtension": {
+                                    "LineExtension": {
+                                        "OrderLineReference": {
+                                            "SalesOrderIssueDate": "2019-01-01"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "ID": "Purchase Order ID",
+                    "SalesOrderID": "Sales Order ID",
+                    "IssueDate": "2019-01-01"
+                }
+            },
+            "DespatchLineReference": {
+                "LineID": 1,
+                "DocumentReference": {
+                    "ID": "Despatch Document ID",
+                    "IssueDate": "2019-01-01"
+                }
+            },
+            "Delivery": {
+                "Quantity": 1,
+                "ActualDeliveryDate": "2019-01-25",
+                "DeliveryLocation": {
+                    "ID": 7300010000001,
+                    "Address": {
+                        "StreetName": "Delivery Street",
+                        "PlotIdentification": 0,
+                        "CitySubdivisionName": "Delivery City Subdivision\n                        Name",
+                        "CityName": "Delivery City",
+                        "PostalZone": 12345,
+                        "CountrySubentity": "Delivery Province",
+                        "Country": {
+                            "IdentificationCode": "SE",
+                            "Name": "Sweden"
+                        }
+                    }
+                }
+            },
+            "AllowanceCharge": {
+                "ChargeIndicator": 0,
+                "AllowanceChargeReason": "discount",
+                "Amount": 10
+            },
+            "TaxTotal": {
+                "TaxAmount": 25,
+                "TaxSubtotal": {
+                    "TaxableAmount": 100,
+                    "TaxAmount": 25,
+                    "TaxCategory": {
+                        "ID": "S",
+                        "Percent": 25,
+                        "TaxScheme": {
+                            "ID": "VAT"
+                        }
+                    }
+                }
+            },
+            "Item": {
+                "Name": "Article 1",
+                "BuyersItemIdentification": {
+                    "ID": "BuyersItemIdentification"
+                },
+                "SellersItemIdentification": {
+                    "ID": "SellersItemIdentification"
+                },
+                "ManufacturersItemIdentification": {
+                    "ID": "ManufacturersItemIdentification"
+                },
+                "StandardItemIdentification": {
+                    "ID": 7300010000001
+                },
+                "ClassifiedTaxCategory": {
+                    "ID": "S",
+                    "Percent": 25,
+                    "TaxScheme": {
+                        "ID": "GST"
+                    }
+                },
+                "ItemInstance": {
+                    "ManufactureDate": "2018-01-01",
+                    "BestBeforeDate": "2018-01-01",
+                    "SerialID": 123456789,
+                    "LotIdentification": {
+                        "LotNumberID": 1111111
+                    }
+                }
+            },
+            "Price": {
+                "UBLExtensions": {
+                    "UBLExtension": {
+                        "ExtensionURI": "urn:pagero:ExtensionComponent:1.0:PageroExtension:PriceExtension",
+                        "ExtensionContent": {
+                            "PageroExtension": {
+                                "PriceExtension": {
+                                    "PriceInclAllowanceChargeAmount": 100
+                                }
+                            }
+                        }
+                    }
+                },
+                "PriceAmount": 110,
+                "BaseQuantity": 1
+            }
+        }
+    }
+}
