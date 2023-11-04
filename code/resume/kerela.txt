@@ -35,3 +35,145 @@ allapey beach
 
 
 
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AbstractFactoryPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AbstractFactoryPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AbstractFactoryPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AbstractFactoryPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AdapterPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AdapterPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AdapterPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AdapterPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AdapterPatternExample\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AdapterPatternExample\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AdapterPatternExample\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\AdapterPatternExample\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\BuilderPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\BuilderPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\BuilderPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\BuilderPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\CommandPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\CommandPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\CommandPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\CommandPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\CommandPatternII\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\CommandPatternII\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\CommandPatternII\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\CommandPatternII\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DecoratorPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DecoratorPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DecoratorPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DecoratorPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DependencyInversionPrinciple\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DependencyInversionPrinciple\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DependencyInversionPrinciple\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DependencyInversionPrinciple\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DependencyInversionPrincipleExample\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DependencyInversionPrincipleExample\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DependencyInversionPrincipleExample\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\DependencyInversionPrincipleExample\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\design_patterns.pptx\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\design_patterns.pptx\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\design_patterns.pptx\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\design_patterns.pptx\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FacadePattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FacadePattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FacadePattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FacadePattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FactoryPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FactoryPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FactoryPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FactoryPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FlyweightPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FlyweightPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FlyweightPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\FlyweightPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\InterfaceSegregationPrinciple\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\InterfaceSegregationPrinciple\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\InterfaceSegregationPrinciple\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\InterfaceSegregationPrinciple\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\InterfaceSegregationPrincipleExample\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\InterfaceSegregationPrincipleExample\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\InterfaceSegregationPrincipleExample\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\InterfaceSegregationPrincipleExample\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\IteratorPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\IteratorPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\IteratorPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\IteratorPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\JavaSolidMVC\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\JavaSolidMVC\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\JavaSolidMVC\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\JavaSolidMVC\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\LiskovPrinciple\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\LiskovPrinciple\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\LiskovPrinciple\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\LiskovPrinciple\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\microservice_architecture.pptx\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\microservice_architecture.pptx\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\microservice_architecture.pptx\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\microservice_architecture.pptx\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\NullObjectPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\NullObjectPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\NullObjectPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\NullObjectPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPatternSwing\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPatternSwing\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPatternSwing\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPatternSwing\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPatternTrading\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPatternTrading\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPatternTrading\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ObserverPatternTrading\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\OpenClosedPrinciple\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\OpenClosedPrinciple\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\OpenClosedPrinciple\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\OpenClosedPrinciple\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\OpenClosedPrincipleExercise\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\OpenClosedPrincipleExercise\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\OpenClosedPrincipleExercise\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\OpenClosedPrincipleExercise\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\PrototypePattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\PrototypePattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\PrototypePattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\PrototypePattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ServiceLocatorPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ServiceLocatorPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ServiceLocatorPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\ServiceLocatorPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingleResponsibilityPrinciple\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingleResponsibilityPrinciple\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingleResponsibilityPrinciple\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingleResponsibilityPrinciple\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingleResponsibilityPrincipleExercise\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingleResponsibilityPrincipleExercise\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingleResponsibilityPrincipleExercise\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingleResponsibilityPrincipleExercise\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingletonPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingletonPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingletonPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\SingletonPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\StatePattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\StatePattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\StatePattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\StatePattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\StrategyPatternSolution\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\StrategyPatternSolution\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\StrategyPatternSolution\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\StrategyPatternSolution\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\TemplatePattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\TemplatePattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\TemplatePattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\TemplatePattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\VisitorPattern\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\VisitorPattern\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\VisitorPattern\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\VisitorPattern\.project"
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\VisitorPatternSolution\bin" /s /q
+rmdir "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\VisitorPatternSolution\.settings" /s /q
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\VisitorPatternSolution\.classpath"
+del "C:\Users\saksangal\Downloads\Saksham\project\kb-java17\src\com\app\design_patt\design_patterns\VisitorPatternSolution\.project"
+
+Process finished with exit code 0
